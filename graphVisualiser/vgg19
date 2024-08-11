@@ -1,0 +1,295 @@
+digraph {
+	node [shape=box]
+	rankdir=TB
+	0 [label="Function: "]
+	40 -> 0
+	0 -> 1
+	0 -> 2
+	0 -> 3
+	0 -> 4
+	0 -> 5
+	0 -> 6
+	0 -> 7
+	0 -> 8
+	0 -> 9
+	0 -> 10
+	0 -> 11
+	0 -> 12
+	0 -> 13
+	0 -> 14
+	0 -> 15
+	0 -> 16
+	0 -> 17
+	0 -> 18
+	0 -> 19
+	0 -> 20
+	0 -> 21
+	0 -> 22
+	0 -> 23
+	0 -> 24
+	0 -> 25
+	0 -> 26
+	0 -> 27
+	0 -> 28
+	0 -> 29
+	0 -> 30
+	0 -> 31
+	0 -> 32
+	0 -> 33
+	0 -> 34
+	0 -> 35
+	0 -> 36
+	0 -> 37
+	0 -> 38
+	0 -> 39
+	1 [label="data:
+shape=[(1, 3, 224, 224), float32]" fillcolor=yellow style=filled]
+	2 [label="conv1_1_weight:
+shape=[(64, 3, 3, 3), float32]" fillcolor=yellow style=filled]
+	3 [label="conv1_1_bias:
+shape=[(64,), float32]" fillcolor=yellow style=filled]
+	4 [label="conv1_2_weight:
+shape=[(64, 64, 3, 3), float32]" fillcolor=yellow style=filled]
+	5 [label="conv1_2_bias:
+shape=[(64,), float32]" fillcolor=yellow style=filled]
+	6 [label="conv2_1_weight:
+shape=[(128, 64, 3, 3), float32]" fillcolor=yellow style=filled]
+	7 [label="conv2_1_bias:
+shape=[(128,), float32]" fillcolor=yellow style=filled]
+	8 [label="conv2_2_weight:
+shape=[(128, 128, 3, 3), float32]" fillcolor=yellow style=filled]
+	9 [label="conv2_2_bias:
+shape=[(128,), float32]" fillcolor=yellow style=filled]
+	10 [label="conv3_1_weight:
+shape=[(256, 128, 3, 3), float32]" fillcolor=yellow style=filled]
+	11 [label="conv3_1_bias:
+shape=[(256,), float32]" fillcolor=yellow style=filled]
+	12 [label="conv3_2_weight:
+shape=[(256, 256, 3, 3), float32]" fillcolor=yellow style=filled]
+	13 [label="conv3_2_bias:
+shape=[(256,), float32]" fillcolor=yellow style=filled]
+	14 [label="conv3_3_weight:
+shape=[(256, 256, 3, 3), float32]" fillcolor=yellow style=filled]
+	15 [label="conv3_3_bias:
+shape=[(256,), float32]" fillcolor=yellow style=filled]
+	16 [label="conv3_4_weight:
+shape=[(256, 256, 3, 3), float32]" fillcolor=yellow style=filled]
+	17 [label="conv3_4_bias:
+shape=[(256,), float32]" fillcolor=yellow style=filled]
+	18 [label="conv4_1_weight:
+shape=[(512, 256, 3, 3), float32]" fillcolor=yellow style=filled]
+	19 [label="conv4_1_bias:
+shape=[(512,), float32]" fillcolor=yellow style=filled]
+	20 [label="conv4_2_weight:
+shape=[(512, 512, 3, 3), float32]" fillcolor=yellow style=filled]
+	21 [label="conv4_2_bias:
+shape=[(512,), float32]" fillcolor=yellow style=filled]
+	22 [label="conv4_3_weight:
+shape=[(512, 512, 3, 3), float32]" fillcolor=yellow style=filled]
+	23 [label="conv4_3_bias:
+shape=[(512,), float32]" fillcolor=yellow style=filled]
+	24 [label="conv4_4_weight:
+shape=[(512, 512, 3, 3), float32]" fillcolor=yellow style=filled]
+	25 [label="conv4_4_bias:
+shape=[(512,), float32]" fillcolor=yellow style=filled]
+	26 [label="conv5_1_weight:
+shape=[(512, 512, 3, 3), float32]" fillcolor=yellow style=filled]
+	27 [label="conv5_1_bias:
+shape=[(512,), float32]" fillcolor=yellow style=filled]
+	28 [label="conv5_2_weight:
+shape=[(512, 512, 3, 3), float32]" fillcolor=yellow style=filled]
+	29 [label="conv5_2_bias:
+shape=[(512,), float32]" fillcolor=yellow style=filled]
+	30 [label="conv5_3_weight:
+shape=[(512, 512, 3, 3), float32]" fillcolor=yellow style=filled]
+	31 [label="conv5_3_bias:
+shape=[(512,), float32]" fillcolor=yellow style=filled]
+	32 [label="conv5_4_weight:
+shape=[(512, 512, 3, 3), float32]" fillcolor=yellow style=filled]
+	33 [label="conv5_4_bias:
+shape=[(512,), float32]" fillcolor=yellow style=filled]
+	34 [label="fc6_weight:
+shape=[(4096, 25088), float32]" fillcolor=yellow style=filled]
+	35 [label="fc6_bias:
+shape=[(4096,), float32]" fillcolor=yellow style=filled]
+	36 [label="fc7_weight:
+shape=[(4096, 4096), float32]" fillcolor=yellow style=filled]
+	37 [label="fc7_bias:
+shape=[(4096,), float32]" fillcolor=yellow style=filled]
+	38 [label="fc8_weight:
+shape=[(1000, 4096), float32]" fillcolor=yellow style=filled]
+	39 [label="fc8_bias:
+shape=[(1000,), float32]" fillcolor=yellow style=filled]
+	40 [label="Call(op=nn.softmax)" fillcolor=green style=filled]
+	42 -> 40
+	42 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	44 -> 42
+	39 -> 42
+	44 [label="Call(op=nn.dense)" fillcolor=green style=filled]
+	46 -> 44
+	38 -> 44
+	46 [label="TupleGetItem(idx=0)" fillcolor=red style=filled]
+	47 -> 46
+	47 [label="Call(op=nn.dropout)" fillcolor=green style=filled]
+	49 -> 47
+	49 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	51 -> 49
+	51 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	52 -> 51
+	37 -> 51
+	52 [label="Call(op=nn.dense)" fillcolor=green style=filled]
+	53 -> 52
+	36 -> 52
+	53 [label="TupleGetItem(idx=0)" fillcolor=red style=filled]
+	54 -> 53
+	54 [label="Call(op=nn.dropout)" fillcolor=green style=filled]
+	55 -> 54
+	55 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	56 -> 55
+	56 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	57 -> 56
+	35 -> 56
+	57 [label="Call(op=nn.dense)" fillcolor=green style=filled]
+	58 -> 57
+	34 -> 57
+	58 [label="Call(op=nn.batch_flatten)" fillcolor=green style=filled]
+	60 -> 58
+	60 [label="Call(op=nn.max_pool2d)" fillcolor=green style=filled]
+	62 -> 60
+	62 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	63 -> 62
+	63 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	64 -> 63
+	33 -> 63
+	64 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	66 -> 64
+	32 -> 64
+	66 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	67 -> 66
+	67 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	68 -> 67
+	31 -> 67
+	68 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	69 -> 68
+	30 -> 68
+	69 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	70 -> 69
+	70 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	71 -> 70
+	29 -> 70
+	71 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	72 -> 71
+	28 -> 71
+	72 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	73 -> 72
+	73 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	74 -> 73
+	27 -> 73
+	74 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	75 -> 74
+	26 -> 74
+	75 [label="Call(op=nn.max_pool2d)" fillcolor=green style=filled]
+	76 -> 75
+	76 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	77 -> 76
+	77 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	78 -> 77
+	25 -> 77
+	78 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	79 -> 78
+	24 -> 78
+	79 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	80 -> 79
+	80 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	81 -> 80
+	23 -> 80
+	81 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	82 -> 81
+	22 -> 81
+	82 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	83 -> 82
+	83 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	84 -> 83
+	21 -> 83
+	84 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	85 -> 84
+	20 -> 84
+	85 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	86 -> 85
+	86 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	87 -> 86
+	19 -> 86
+	87 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	88 -> 87
+	18 -> 87
+	88 [label="Call(op=nn.max_pool2d)" fillcolor=green style=filled]
+	89 -> 88
+	89 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	90 -> 89
+	90 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	91 -> 90
+	17 -> 90
+	91 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	92 -> 91
+	16 -> 91
+	92 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	93 -> 92
+	93 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	94 -> 93
+	15 -> 93
+	94 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	95 -> 94
+	14 -> 94
+	95 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	96 -> 95
+	96 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	97 -> 96
+	13 -> 96
+	97 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	98 -> 97
+	12 -> 97
+	98 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	99 -> 98
+	99 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	100 -> 99
+	11 -> 99
+	100 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	101 -> 100
+	10 -> 100
+	101 [label="Call(op=nn.max_pool2d)" fillcolor=green style=filled]
+	102 -> 101
+	102 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	103 -> 102
+	103 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	104 -> 103
+	9 -> 103
+	104 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	105 -> 104
+	8 -> 104
+	105 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	106 -> 105
+	106 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	107 -> 106
+	7 -> 106
+	107 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	108 -> 107
+	6 -> 107
+	108 [label="Call(op=nn.max_pool2d)" fillcolor=green style=filled]
+	109 -> 108
+	109 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	110 -> 109
+	110 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	111 -> 110
+	5 -> 110
+	111 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	112 -> 111
+	4 -> 111
+	112 [label="Call(op=nn.relu)" fillcolor=green style=filled]
+	113 -> 112
+	113 [label="Call(op=nn.bias_add)" fillcolor=green style=filled]
+	114 -> 113
+	3 -> 113
+	114 [label="Call(op=nn.conv2d)" fillcolor=green style=filled]
+	1 -> 114
+	2 -> 114
+}

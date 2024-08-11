@@ -1,0 +1,2993 @@
+digraph {
+	node [shape=box]
+	0 [label="Function: I.GlobalVar(\"main\")"]
+	516 -> 0
+	0 -> 1
+	0 -> 2
+	0 -> 3
+	0 -> 4
+	0 -> 5
+	0 -> 6
+	0 -> 7
+	0 -> 8
+	0 -> 9
+	0 -> 10
+	0 -> 11
+	0 -> 12
+	0 -> 13
+	0 -> 14
+	0 -> 15
+	0 -> 16
+	0 -> 17
+	0 -> 18
+	0 -> 19
+	0 -> 20
+	0 -> 21
+	0 -> 22
+	0 -> 23
+	0 -> 24
+	0 -> 25
+	0 -> 26
+	0 -> 27
+	0 -> 28
+	0 -> 29
+	0 -> 30
+	0 -> 31
+	0 -> 32
+	0 -> 33
+	0 -> 34
+	0 -> 35
+	0 -> 36
+	0 -> 37
+	0 -> 38
+	0 -> 39
+	0 -> 40
+	0 -> 41
+	0 -> 42
+	0 -> 43
+	0 -> 44
+	0 -> 45
+	0 -> 46
+	0 -> 47
+	0 -> 48
+	0 -> 49
+	0 -> 50
+	0 -> 51
+	0 -> 52
+	0 -> 53
+	0 -> 54
+	0 -> 55
+	0 -> 56
+	0 -> 57
+	0 -> 58
+	0 -> 59
+	0 -> 60
+	0 -> 61
+	0 -> 62
+	0 -> 63
+	0 -> 64
+	0 -> 65
+	0 -> 66
+	0 -> 67
+	0 -> 68
+	0 -> 69
+	0 -> 70
+	0 -> 71
+	0 -> 72
+	0 -> 73
+	0 -> 74
+	0 -> 75
+	0 -> 76
+	0 -> 77
+	0 -> 78
+	0 -> 79
+	0 -> 80
+	0 -> 81
+	0 -> 82
+	0 -> 83
+	0 -> 84
+	0 -> 85
+	0 -> 86
+	0 -> 87
+	0 -> 88
+	0 -> 89
+	0 -> 90
+	0 -> 91
+	0 -> 92
+	0 -> 93
+	0 -> 94
+	0 -> 95
+	0 -> 96
+	0 -> 97
+	0 -> 98
+	0 -> 99
+	0 -> 100
+	0 -> 101
+	0 -> 102
+	0 -> 103
+	0 -> 104
+	0 -> 105
+	0 -> 106
+	0 -> 107
+	0 -> 108
+	0 -> 109
+	0 -> 110
+	0 -> 111
+	0 -> 112
+	0 -> 113
+	0 -> 114
+	0 -> 115
+	0 -> 116
+	0 -> 117
+	0 -> 118
+	0 -> 119
+	0 -> 120
+	0 -> 121
+	0 -> 122
+	0 -> 123
+	0 -> 124
+	0 -> 125
+	0 -> 126
+	0 -> 127
+	0 -> 128
+	0 -> 129
+	0 -> 130
+	0 -> 131
+	0 -> 132
+	0 -> 133
+	0 -> 134
+	0 -> 135
+	0 -> 136
+	0 -> 137
+	0 -> 138
+	0 -> 139
+	0 -> 140
+	0 -> 141
+	0 -> 142
+	0 -> 143
+	0 -> 144
+	0 -> 145
+	0 -> 146
+	0 -> 147
+	0 -> 148
+	0 -> 149
+	0 -> 150
+	0 -> 151
+	0 -> 152
+	0 -> 153
+	0 -> 154
+	0 -> 155
+	0 -> 156
+	0 -> 157
+	0 -> 158
+	0 -> 159
+	0 -> 160
+	0 -> 161
+	0 -> 162
+	0 -> 163
+	0 -> 164
+	0 -> 165
+	0 -> 166
+	0 -> 167
+	0 -> 168
+	0 -> 169
+	0 -> 170
+	0 -> 171
+	0 -> 172
+	0 -> 173
+	0 -> 174
+	0 -> 175
+	0 -> 176
+	0 -> 177
+	0 -> 178
+	0 -> 179
+	0 -> 180
+	0 -> 181
+	0 -> 182
+	0 -> 183
+	0 -> 184
+	0 -> 185
+	0 -> 186
+	0 -> 187
+	0 -> 188
+	0 -> 189
+	0 -> 190
+	0 -> 191
+	0 -> 192
+	0 -> 193
+	0 -> 194
+	0 -> 195
+	0 -> 196
+	0 -> 197
+	0 -> 198
+	0 -> 199
+	0 -> 200
+	0 -> 201
+	0 -> 202
+	0 -> 203
+	0 -> 204
+	0 -> 205
+	0 -> 206
+	0 -> 207
+	0 -> 208
+	0 -> 209
+	0 -> 210
+	0 -> 211
+	0 -> 212
+	0 -> 213
+	0 -> 214
+	0 -> 215
+	0 -> 216
+	0 -> 217
+	0 -> 218
+	0 -> 219
+	0 -> 220
+	0 -> 221
+	0 -> 222
+	0 -> 223
+	0 -> 224
+	0 -> 225
+	0 -> 226
+	0 -> 227
+	0 -> 228
+	0 -> 229
+	0 -> 230
+	0 -> 231
+	0 -> 232
+	0 -> 233
+	0 -> 234
+	0 -> 235
+	0 -> 236
+	0 -> 237
+	0 -> 238
+	0 -> 239
+	0 -> 240
+	0 -> 241
+	0 -> 242
+	0 -> 243
+	0 -> 244
+	0 -> 245
+	0 -> 246
+	0 -> 247
+	0 -> 248
+	0 -> 249
+	0 -> 250
+	0 -> 251
+	0 -> 252
+	0 -> 253
+	0 -> 254
+	0 -> 255
+	0 -> 256
+	0 -> 257
+	0 -> 258
+	0 -> 259
+	0 -> 260
+	0 -> 261
+	0 -> 262
+	0 -> 263
+	0 -> 264
+	0 -> 265
+	0 -> 266
+	0 -> 267
+	0 -> 268
+	0 -> 269
+	0 -> 270
+	0 -> 271
+	0 -> 272
+	0 -> 273
+	0 -> 274
+	0 -> 275
+	0 -> 276
+	0 -> 277
+	0 -> 278
+	0 -> 279
+	0 -> 280
+	0 -> 281
+	0 -> 282
+	0 -> 283
+	0 -> 284
+	0 -> 285
+	0 -> 286
+	0 -> 287
+	0 -> 288
+	0 -> 289
+	0 -> 290
+	0 -> 291
+	0 -> 292
+	0 -> 293
+	0 -> 294
+	0 -> 295
+	0 -> 296
+	0 -> 297
+	0 -> 298
+	0 -> 299
+	0 -> 300
+	0 -> 301
+	0 -> 302
+	0 -> 303
+	0 -> 304
+	0 -> 305
+	0 -> 306
+	0 -> 307
+	0 -> 308
+	0 -> 309
+	0 -> 310
+	0 -> 311
+	0 -> 312
+	0 -> 313
+	0 -> 314
+	0 -> 315
+	0 -> 316
+	0 -> 317
+	0 -> 318
+	0 -> 319
+	0 -> 320
+	0 -> 321
+	0 -> 322
+	0 -> 323
+	0 -> 324
+	0 -> 325
+	0 -> 326
+	0 -> 327
+	0 -> 328
+	0 -> 329
+	0 -> 330
+	0 -> 331
+	0 -> 332
+	0 -> 333
+	0 -> 334
+	0 -> 335
+	0 -> 336
+	0 -> 337
+	0 -> 338
+	0 -> 339
+	0 -> 340
+	0 -> 341
+	0 -> 342
+	0 -> 343
+	0 -> 344
+	0 -> 345
+	0 -> 346
+	0 -> 347
+	0 -> 348
+	0 -> 349
+	0 -> 350
+	0 -> 351
+	0 -> 352
+	0 -> 353
+	0 -> 354
+	0 -> 355
+	0 -> 356
+	0 -> 357
+	0 -> 358
+	0 -> 359
+	0 -> 360
+	0 -> 361
+	0 -> 362
+	0 -> 363
+	0 -> 364
+	0 -> 365
+	0 -> 366
+	0 -> 367
+	0 -> 368
+	0 -> 369
+	0 -> 370
+	0 -> 371
+	0 -> 372
+	0 -> 373
+	0 -> 374
+	0 -> 375
+	0 -> 376
+	0 -> 377
+	0 -> 378
+	0 -> 379
+	0 -> 380
+	0 -> 381
+	0 -> 382
+	0 -> 383
+	0 -> 384
+	0 -> 385
+	0 -> 386
+	0 -> 387
+	0 -> 388
+	0 -> 389
+	0 -> 390
+	0 -> 391
+	0 -> 392
+	0 -> 393
+	0 -> 394
+	0 -> 395
+	0 -> 396
+	0 -> 397
+	0 -> 398
+	0 -> 399
+	0 -> 400
+	0 -> 401
+	0 -> 402
+	0 -> 403
+	0 -> 404
+	0 -> 405
+	0 -> 406
+	0 -> 407
+	0 -> 408
+	0 -> 409
+	0 -> 410
+	0 -> 411
+	0 -> 412
+	0 -> 413
+	0 -> 414
+	0 -> 415
+	0 -> 416
+	0 -> 417
+	0 -> 418
+	0 -> 419
+	0 -> 420
+	0 -> 421
+	0 -> 422
+	0 -> 423
+	0 -> 424
+	0 -> 425
+	0 -> 426
+	0 -> 427
+	0 -> 428
+	0 -> 429
+	0 -> 430
+	0 -> 431
+	0 -> 432
+	0 -> 433
+	0 -> 434
+	0 -> 435
+	0 -> 436
+	0 -> 437
+	0 -> 438
+	0 -> 439
+	0 -> 440
+	0 -> 441
+	0 -> 442
+	0 -> 443
+	0 -> 444
+	0 -> 445
+	0 -> 446
+	0 -> 447
+	0 -> 448
+	0 -> 449
+	0 -> 450
+	0 -> 451
+	0 -> 452
+	0 -> 453
+	0 -> 454
+	0 -> 455
+	0 -> 456
+	0 -> 457
+	0 -> 458
+	0 -> 459
+	0 -> 460
+	0 -> 461
+	0 -> 462
+	0 -> 463
+	0 -> 464
+	0 -> 465
+	0 -> 466
+	0 -> 467
+	0 -> 468
+	0 -> 469
+	0 -> 470
+	0 -> 471
+	0 -> 472
+	0 -> 473
+	0 -> 474
+	0 -> 475
+	0 -> 476
+	0 -> 477
+	0 -> 478
+	0 -> 479
+	0 -> 480
+	0 -> 481
+	0 -> 482
+	0 -> 483
+	0 -> 484
+	0 -> 485
+	0 -> 486
+	0 -> 487
+	0 -> 488
+	0 -> 489
+	0 -> 490
+	0 -> 491
+	0 -> 492
+	0 -> 493
+	0 -> 494
+	0 -> 495
+	0 -> 496
+	0 -> 497
+	0 -> 498
+	0 -> 499
+	0 -> 500
+	0 -> 501
+	0 -> 502
+	0 -> 503
+	0 -> 504
+	0 -> 505
+	0 -> 506
+	0 -> 507
+	0 -> 508
+	0 -> 509
+	0 -> 510
+	0 -> 511
+	0 -> 512
+	0 -> 513
+	0 -> 514
+	0 -> 515
+	1 [label="data:
+shape=[(1, 3, 224, 224), float32]"]
+	2 [label="bn_data_gamma:
+shape=[(3,), float32]"]
+	3 [label="bn_data_beta:
+shape=[(3,), float32]"]
+	4 [label="bn_data_moving_mean:
+shape=[(3,), float32]"]
+	5 [label="bn_data_moving_var:
+shape=[(3,), float32]"]
+	6 [label="conv0_weight:
+shape=[(64, 3, 7, 7), float32]"]
+	7 [label="bn0_gamma:
+shape=[(64,), float32]"]
+	8 [label="bn0_beta:
+shape=[(64,), float32]"]
+	9 [label="bn0_moving_mean:
+shape=[(64,), float32]"]
+	10 [label="bn0_moving_var:
+shape=[(64,), float32]"]
+	11 [label="stage1_unit1_bn1_gamma:
+shape=[(64,), float32]"]
+	12 [label="stage1_unit1_bn1_beta:
+shape=[(64,), float32]"]
+	13 [label="stage1_unit1_bn1_moving_mean:
+shape=[(64,), float32]"]
+	14 [label="stage1_unit1_bn1_moving_var:
+shape=[(64,), float32]"]
+	15 [label="stage1_unit1_conv1_weight:
+shape=[(64, 64, 1, 1), float32]"]
+	16 [label="stage1_unit1_bn2_gamma:
+shape=[(64,), float32]"]
+	17 [label="stage1_unit1_bn2_beta:
+shape=[(64,), float32]"]
+	18 [label="stage1_unit1_bn2_moving_mean:
+shape=[(64,), float32]"]
+	19 [label="stage1_unit1_bn2_moving_var:
+shape=[(64,), float32]"]
+	20 [label="stage1_unit1_conv2_weight:
+shape=[(64, 64, 3, 3), float32]"]
+	21 [label="stage1_unit1_bn3_gamma:
+shape=[(64,), float32]"]
+	22 [label="stage1_unit1_bn3_beta:
+shape=[(64,), float32]"]
+	23 [label="stage1_unit1_bn3_moving_mean:
+shape=[(64,), float32]"]
+	24 [label="stage1_unit1_bn3_moving_var:
+shape=[(64,), float32]"]
+	25 [label="stage1_unit1_conv3_weight:
+shape=[(256, 64, 1, 1), float32]"]
+	26 [label="stage1_unit1_sc_weight:
+shape=[(256, 64, 1, 1), float32]"]
+	27 [label="stage1_unit2_bn1_gamma:
+shape=[(256,), float32]"]
+	28 [label="stage1_unit2_bn1_beta:
+shape=[(256,), float32]"]
+	29 [label="stage1_unit2_bn1_moving_mean:
+shape=[(256,), float32]"]
+	30 [label="stage1_unit2_bn1_moving_var:
+shape=[(256,), float32]"]
+	31 [label="stage1_unit2_conv1_weight:
+shape=[(64, 256, 1, 1), float32]"]
+	32 [label="stage1_unit2_bn2_gamma:
+shape=[(64,), float32]"]
+	33 [label="stage1_unit2_bn2_beta:
+shape=[(64,), float32]"]
+	34 [label="stage1_unit2_bn2_moving_mean:
+shape=[(64,), float32]"]
+	35 [label="stage1_unit2_bn2_moving_var:
+shape=[(64,), float32]"]
+	36 [label="stage1_unit2_conv2_weight:
+shape=[(64, 64, 3, 3), float32]"]
+	37 [label="stage1_unit2_bn3_gamma:
+shape=[(64,), float32]"]
+	38 [label="stage1_unit2_bn3_beta:
+shape=[(64,), float32]"]
+	39 [label="stage1_unit2_bn3_moving_mean:
+shape=[(64,), float32]"]
+	40 [label="stage1_unit2_bn3_moving_var:
+shape=[(64,), float32]"]
+	41 [label="stage1_unit2_conv3_weight:
+shape=[(256, 64, 1, 1), float32]"]
+	42 [label="stage1_unit3_bn1_gamma:
+shape=[(256,), float32]"]
+	43 [label="stage1_unit3_bn1_beta:
+shape=[(256,), float32]"]
+	44 [label="stage1_unit3_bn1_moving_mean:
+shape=[(256,), float32]"]
+	45 [label="stage1_unit3_bn1_moving_var:
+shape=[(256,), float32]"]
+	46 [label="stage1_unit3_conv1_weight:
+shape=[(64, 256, 1, 1), float32]"]
+	47 [label="stage1_unit3_bn2_gamma:
+shape=[(64,), float32]"]
+	48 [label="stage1_unit3_bn2_beta:
+shape=[(64,), float32]"]
+	49 [label="stage1_unit3_bn2_moving_mean:
+shape=[(64,), float32]"]
+	50 [label="stage1_unit3_bn2_moving_var:
+shape=[(64,), float32]"]
+	51 [label="stage1_unit3_conv2_weight:
+shape=[(64, 64, 3, 3), float32]"]
+	52 [label="stage1_unit3_bn3_gamma:
+shape=[(64,), float32]"]
+	53 [label="stage1_unit3_bn3_beta:
+shape=[(64,), float32]"]
+	54 [label="stage1_unit3_bn3_moving_mean:
+shape=[(64,), float32]"]
+	55 [label="stage1_unit3_bn3_moving_var:
+shape=[(64,), float32]"]
+	56 [label="stage1_unit3_conv3_weight:
+shape=[(256, 64, 1, 1), float32]"]
+	57 [label="stage2_unit1_bn1_gamma:
+shape=[(256,), float32]"]
+	58 [label="stage2_unit1_bn1_beta:
+shape=[(256,), float32]"]
+	59 [label="stage2_unit1_bn1_moving_mean:
+shape=[(256,), float32]"]
+	60 [label="stage2_unit1_bn1_moving_var:
+shape=[(256,), float32]"]
+	61 [label="stage2_unit1_conv1_weight:
+shape=[(128, 256, 1, 1), float32]"]
+	62 [label="stage2_unit1_bn2_gamma:
+shape=[(128,), float32]"]
+	63 [label="stage2_unit1_bn2_beta:
+shape=[(128,), float32]"]
+	64 [label="stage2_unit1_bn2_moving_mean:
+shape=[(128,), float32]"]
+	65 [label="stage2_unit1_bn2_moving_var:
+shape=[(128,), float32]"]
+	66 [label="stage2_unit1_conv2_weight:
+shape=[(128, 128, 3, 3), float32]"]
+	67 [label="stage2_unit1_bn3_gamma:
+shape=[(128,), float32]"]
+	68 [label="stage2_unit1_bn3_beta:
+shape=[(128,), float32]"]
+	69 [label="stage2_unit1_bn3_moving_mean:
+shape=[(128,), float32]"]
+	70 [label="stage2_unit1_bn3_moving_var:
+shape=[(128,), float32]"]
+	71 [label="stage2_unit1_conv3_weight:
+shape=[(512, 128, 1, 1), float32]"]
+	72 [label="stage2_unit1_sc_weight:
+shape=[(512, 256, 1, 1), float32]"]
+	73 [label="stage2_unit2_bn1_gamma:
+shape=[(512,), float32]"]
+	74 [label="stage2_unit2_bn1_beta:
+shape=[(512,), float32]"]
+	75 [label="stage2_unit2_bn1_moving_mean:
+shape=[(512,), float32]"]
+	76 [label="stage2_unit2_bn1_moving_var:
+shape=[(512,), float32]"]
+	77 [label="stage2_unit2_conv1_weight:
+shape=[(128, 512, 1, 1), float32]"]
+	78 [label="stage2_unit2_bn2_gamma:
+shape=[(128,), float32]"]
+	79 [label="stage2_unit2_bn2_beta:
+shape=[(128,), float32]"]
+	80 [label="stage2_unit2_bn2_moving_mean:
+shape=[(128,), float32]"]
+	81 [label="stage2_unit2_bn2_moving_var:
+shape=[(128,), float32]"]
+	82 [label="stage2_unit2_conv2_weight:
+shape=[(128, 128, 3, 3), float32]"]
+	83 [label="stage2_unit2_bn3_gamma:
+shape=[(128,), float32]"]
+	84 [label="stage2_unit2_bn3_beta:
+shape=[(128,), float32]"]
+	85 [label="stage2_unit2_bn3_moving_mean:
+shape=[(128,), float32]"]
+	86 [label="stage2_unit2_bn3_moving_var:
+shape=[(128,), float32]"]
+	87 [label="stage2_unit2_conv3_weight:
+shape=[(512, 128, 1, 1), float32]"]
+	88 [label="stage2_unit3_bn1_gamma:
+shape=[(512,), float32]"]
+	89 [label="stage2_unit3_bn1_beta:
+shape=[(512,), float32]"]
+	90 [label="stage2_unit3_bn1_moving_mean:
+shape=[(512,), float32]"]
+	91 [label="stage2_unit3_bn1_moving_var:
+shape=[(512,), float32]"]
+	92 [label="stage2_unit3_conv1_weight:
+shape=[(128, 512, 1, 1), float32]"]
+	93 [label="stage2_unit3_bn2_gamma:
+shape=[(128,), float32]"]
+	94 [label="stage2_unit3_bn2_beta:
+shape=[(128,), float32]"]
+	95 [label="stage2_unit3_bn2_moving_mean:
+shape=[(128,), float32]"]
+	96 [label="stage2_unit3_bn2_moving_var:
+shape=[(128,), float32]"]
+	97 [label="stage2_unit3_conv2_weight:
+shape=[(128, 128, 3, 3), float32]"]
+	98 [label="stage2_unit3_bn3_gamma:
+shape=[(128,), float32]"]
+	99 [label="stage2_unit3_bn3_beta:
+shape=[(128,), float32]"]
+	100 [label="stage2_unit3_bn3_moving_mean:
+shape=[(128,), float32]"]
+	101 [label="stage2_unit3_bn3_moving_var:
+shape=[(128,), float32]"]
+	102 [label="stage2_unit3_conv3_weight:
+shape=[(512, 128, 1, 1), float32]"]
+	103 [label="stage2_unit4_bn1_gamma:
+shape=[(512,), float32]"]
+	104 [label="stage2_unit4_bn1_beta:
+shape=[(512,), float32]"]
+	105 [label="stage2_unit4_bn1_moving_mean:
+shape=[(512,), float32]"]
+	106 [label="stage2_unit4_bn1_moving_var:
+shape=[(512,), float32]"]
+	107 [label="stage2_unit4_conv1_weight:
+shape=[(128, 512, 1, 1), float32]"]
+	108 [label="stage2_unit4_bn2_gamma:
+shape=[(128,), float32]"]
+	109 [label="stage2_unit4_bn2_beta:
+shape=[(128,), float32]"]
+	110 [label="stage2_unit4_bn2_moving_mean:
+shape=[(128,), float32]"]
+	111 [label="stage2_unit4_bn2_moving_var:
+shape=[(128,), float32]"]
+	112 [label="stage2_unit4_conv2_weight:
+shape=[(128, 128, 3, 3), float32]"]
+	113 [label="stage2_unit4_bn3_gamma:
+shape=[(128,), float32]"]
+	114 [label="stage2_unit4_bn3_beta:
+shape=[(128,), float32]"]
+	115 [label="stage2_unit4_bn3_moving_mean:
+shape=[(128,), float32]"]
+	116 [label="stage2_unit4_bn3_moving_var:
+shape=[(128,), float32]"]
+	117 [label="stage2_unit4_conv3_weight:
+shape=[(512, 128, 1, 1), float32]"]
+	118 [label="stage3_unit1_bn1_gamma:
+shape=[(512,), float32]"]
+	119 [label="stage3_unit1_bn1_beta:
+shape=[(512,), float32]"]
+	120 [label="stage3_unit1_bn1_moving_mean:
+shape=[(512,), float32]"]
+	121 [label="stage3_unit1_bn1_moving_var:
+shape=[(512,), float32]"]
+	122 [label="stage3_unit1_conv1_weight:
+shape=[(256, 512, 1, 1), float32]"]
+	123 [label="stage3_unit1_bn2_gamma:
+shape=[(256,), float32]"]
+	124 [label="stage3_unit1_bn2_beta:
+shape=[(256,), float32]"]
+	125 [label="stage3_unit1_bn2_moving_mean:
+shape=[(256,), float32]"]
+	126 [label="stage3_unit1_bn2_moving_var:
+shape=[(256,), float32]"]
+	127 [label="stage3_unit1_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	128 [label="stage3_unit1_bn3_gamma:
+shape=[(256,), float32]"]
+	129 [label="stage3_unit1_bn3_beta:
+shape=[(256,), float32]"]
+	130 [label="stage3_unit1_bn3_moving_mean:
+shape=[(256,), float32]"]
+	131 [label="stage3_unit1_bn3_moving_var:
+shape=[(256,), float32]"]
+	132 [label="stage3_unit1_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	133 [label="stage3_unit1_sc_weight:
+shape=[(1024, 512, 1, 1), float32]"]
+	134 [label="stage3_unit2_bn1_gamma:
+shape=[(1024,), float32]"]
+	135 [label="stage3_unit2_bn1_beta:
+shape=[(1024,), float32]"]
+	136 [label="stage3_unit2_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	137 [label="stage3_unit2_bn1_moving_var:
+shape=[(1024,), float32]"]
+	138 [label="stage3_unit2_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	139 [label="stage3_unit2_bn2_gamma:
+shape=[(256,), float32]"]
+	140 [label="stage3_unit2_bn2_beta:
+shape=[(256,), float32]"]
+	141 [label="stage3_unit2_bn2_moving_mean:
+shape=[(256,), float32]"]
+	142 [label="stage3_unit2_bn2_moving_var:
+shape=[(256,), float32]"]
+	143 [label="stage3_unit2_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	144 [label="stage3_unit2_bn3_gamma:
+shape=[(256,), float32]"]
+	145 [label="stage3_unit2_bn3_beta:
+shape=[(256,), float32]"]
+	146 [label="stage3_unit2_bn3_moving_mean:
+shape=[(256,), float32]"]
+	147 [label="stage3_unit2_bn3_moving_var:
+shape=[(256,), float32]"]
+	148 [label="stage3_unit2_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	149 [label="stage3_unit3_bn1_gamma:
+shape=[(1024,), float32]"]
+	150 [label="stage3_unit3_bn1_beta:
+shape=[(1024,), float32]"]
+	151 [label="stage3_unit3_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	152 [label="stage3_unit3_bn1_moving_var:
+shape=[(1024,), float32]"]
+	153 [label="stage3_unit3_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	154 [label="stage3_unit3_bn2_gamma:
+shape=[(256,), float32]"]
+	155 [label="stage3_unit3_bn2_beta:
+shape=[(256,), float32]"]
+	156 [label="stage3_unit3_bn2_moving_mean:
+shape=[(256,), float32]"]
+	157 [label="stage3_unit3_bn2_moving_var:
+shape=[(256,), float32]"]
+	158 [label="stage3_unit3_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	159 [label="stage3_unit3_bn3_gamma:
+shape=[(256,), float32]"]
+	160 [label="stage3_unit3_bn3_beta:
+shape=[(256,), float32]"]
+	161 [label="stage3_unit3_bn3_moving_mean:
+shape=[(256,), float32]"]
+	162 [label="stage3_unit3_bn3_moving_var:
+shape=[(256,), float32]"]
+	163 [label="stage3_unit3_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	164 [label="stage3_unit4_bn1_gamma:
+shape=[(1024,), float32]"]
+	165 [label="stage3_unit4_bn1_beta:
+shape=[(1024,), float32]"]
+	166 [label="stage3_unit4_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	167 [label="stage3_unit4_bn1_moving_var:
+shape=[(1024,), float32]"]
+	168 [label="stage3_unit4_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	169 [label="stage3_unit4_bn2_gamma:
+shape=[(256,), float32]"]
+	170 [label="stage3_unit4_bn2_beta:
+shape=[(256,), float32]"]
+	171 [label="stage3_unit4_bn2_moving_mean:
+shape=[(256,), float32]"]
+	172 [label="stage3_unit4_bn2_moving_var:
+shape=[(256,), float32]"]
+	173 [label="stage3_unit4_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	174 [label="stage3_unit4_bn3_gamma:
+shape=[(256,), float32]"]
+	175 [label="stage3_unit4_bn3_beta:
+shape=[(256,), float32]"]
+	176 [label="stage3_unit4_bn3_moving_mean:
+shape=[(256,), float32]"]
+	177 [label="stage3_unit4_bn3_moving_var:
+shape=[(256,), float32]"]
+	178 [label="stage3_unit4_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	179 [label="stage3_unit5_bn1_gamma:
+shape=[(1024,), float32]"]
+	180 [label="stage3_unit5_bn1_beta:
+shape=[(1024,), float32]"]
+	181 [label="stage3_unit5_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	182 [label="stage3_unit5_bn1_moving_var:
+shape=[(1024,), float32]"]
+	183 [label="stage3_unit5_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	184 [label="stage3_unit5_bn2_gamma:
+shape=[(256,), float32]"]
+	185 [label="stage3_unit5_bn2_beta:
+shape=[(256,), float32]"]
+	186 [label="stage3_unit5_bn2_moving_mean:
+shape=[(256,), float32]"]
+	187 [label="stage3_unit5_bn2_moving_var:
+shape=[(256,), float32]"]
+	188 [label="stage3_unit5_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	189 [label="stage3_unit5_bn3_gamma:
+shape=[(256,), float32]"]
+	190 [label="stage3_unit5_bn3_beta:
+shape=[(256,), float32]"]
+	191 [label="stage3_unit5_bn3_moving_mean:
+shape=[(256,), float32]"]
+	192 [label="stage3_unit5_bn3_moving_var:
+shape=[(256,), float32]"]
+	193 [label="stage3_unit5_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	194 [label="stage3_unit6_bn1_gamma:
+shape=[(1024,), float32]"]
+	195 [label="stage3_unit6_bn1_beta:
+shape=[(1024,), float32]"]
+	196 [label="stage3_unit6_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	197 [label="stage3_unit6_bn1_moving_var:
+shape=[(1024,), float32]"]
+	198 [label="stage3_unit6_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	199 [label="stage3_unit6_bn2_gamma:
+shape=[(256,), float32]"]
+	200 [label="stage3_unit6_bn2_beta:
+shape=[(256,), float32]"]
+	201 [label="stage3_unit6_bn2_moving_mean:
+shape=[(256,), float32]"]
+	202 [label="stage3_unit6_bn2_moving_var:
+shape=[(256,), float32]"]
+	203 [label="stage3_unit6_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	204 [label="stage3_unit6_bn3_gamma:
+shape=[(256,), float32]"]
+	205 [label="stage3_unit6_bn3_beta:
+shape=[(256,), float32]"]
+	206 [label="stage3_unit6_bn3_moving_mean:
+shape=[(256,), float32]"]
+	207 [label="stage3_unit6_bn3_moving_var:
+shape=[(256,), float32]"]
+	208 [label="stage3_unit6_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	209 [label="stage3_unit7_bn1_gamma:
+shape=[(1024,), float32]"]
+	210 [label="stage3_unit7_bn1_beta:
+shape=[(1024,), float32]"]
+	211 [label="stage3_unit7_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	212 [label="stage3_unit7_bn1_moving_var:
+shape=[(1024,), float32]"]
+	213 [label="stage3_unit7_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	214 [label="stage3_unit7_bn2_gamma:
+shape=[(256,), float32]"]
+	215 [label="stage3_unit7_bn2_beta:
+shape=[(256,), float32]"]
+	216 [label="stage3_unit7_bn2_moving_mean:
+shape=[(256,), float32]"]
+	217 [label="stage3_unit7_bn2_moving_var:
+shape=[(256,), float32]"]
+	218 [label="stage3_unit7_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	219 [label="stage3_unit7_bn3_gamma:
+shape=[(256,), float32]"]
+	220 [label="stage3_unit7_bn3_beta:
+shape=[(256,), float32]"]
+	221 [label="stage3_unit7_bn3_moving_mean:
+shape=[(256,), float32]"]
+	222 [label="stage3_unit7_bn3_moving_var:
+shape=[(256,), float32]"]
+	223 [label="stage3_unit7_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	224 [label="stage3_unit8_bn1_gamma:
+shape=[(1024,), float32]"]
+	225 [label="stage3_unit8_bn1_beta:
+shape=[(1024,), float32]"]
+	226 [label="stage3_unit8_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	227 [label="stage3_unit8_bn1_moving_var:
+shape=[(1024,), float32]"]
+	228 [label="stage3_unit8_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	229 [label="stage3_unit8_bn2_gamma:
+shape=[(256,), float32]"]
+	230 [label="stage3_unit8_bn2_beta:
+shape=[(256,), float32]"]
+	231 [label="stage3_unit8_bn2_moving_mean:
+shape=[(256,), float32]"]
+	232 [label="stage3_unit8_bn2_moving_var:
+shape=[(256,), float32]"]
+	233 [label="stage3_unit8_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	234 [label="stage3_unit8_bn3_gamma:
+shape=[(256,), float32]"]
+	235 [label="stage3_unit8_bn3_beta:
+shape=[(256,), float32]"]
+	236 [label="stage3_unit8_bn3_moving_mean:
+shape=[(256,), float32]"]
+	237 [label="stage3_unit8_bn3_moving_var:
+shape=[(256,), float32]"]
+	238 [label="stage3_unit8_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	239 [label="stage3_unit9_bn1_gamma:
+shape=[(1024,), float32]"]
+	240 [label="stage3_unit9_bn1_beta:
+shape=[(1024,), float32]"]
+	241 [label="stage3_unit9_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	242 [label="stage3_unit9_bn1_moving_var:
+shape=[(1024,), float32]"]
+	243 [label="stage3_unit9_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	244 [label="stage3_unit9_bn2_gamma:
+shape=[(256,), float32]"]
+	245 [label="stage3_unit9_bn2_beta:
+shape=[(256,), float32]"]
+	246 [label="stage3_unit9_bn2_moving_mean:
+shape=[(256,), float32]"]
+	247 [label="stage3_unit9_bn2_moving_var:
+shape=[(256,), float32]"]
+	248 [label="stage3_unit9_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	249 [label="stage3_unit9_bn3_gamma:
+shape=[(256,), float32]"]
+	250 [label="stage3_unit9_bn3_beta:
+shape=[(256,), float32]"]
+	251 [label="stage3_unit9_bn3_moving_mean:
+shape=[(256,), float32]"]
+	252 [label="stage3_unit9_bn3_moving_var:
+shape=[(256,), float32]"]
+	253 [label="stage3_unit9_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	254 [label="stage3_unit10_bn1_gamma:
+shape=[(1024,), float32]"]
+	255 [label="stage3_unit10_bn1_beta:
+shape=[(1024,), float32]"]
+	256 [label="stage3_unit10_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	257 [label="stage3_unit10_bn1_moving_var:
+shape=[(1024,), float32]"]
+	258 [label="stage3_unit10_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	259 [label="stage3_unit10_bn2_gamma:
+shape=[(256,), float32]"]
+	260 [label="stage3_unit10_bn2_beta:
+shape=[(256,), float32]"]
+	261 [label="stage3_unit10_bn2_moving_mean:
+shape=[(256,), float32]"]
+	262 [label="stage3_unit10_bn2_moving_var:
+shape=[(256,), float32]"]
+	263 [label="stage3_unit10_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	264 [label="stage3_unit10_bn3_gamma:
+shape=[(256,), float32]"]
+	265 [label="stage3_unit10_bn3_beta:
+shape=[(256,), float32]"]
+	266 [label="stage3_unit10_bn3_moving_mean:
+shape=[(256,), float32]"]
+	267 [label="stage3_unit10_bn3_moving_var:
+shape=[(256,), float32]"]
+	268 [label="stage3_unit10_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	269 [label="stage3_unit11_bn1_gamma:
+shape=[(1024,), float32]"]
+	270 [label="stage3_unit11_bn1_beta:
+shape=[(1024,), float32]"]
+	271 [label="stage3_unit11_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	272 [label="stage3_unit11_bn1_moving_var:
+shape=[(1024,), float32]"]
+	273 [label="stage3_unit11_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	274 [label="stage3_unit11_bn2_gamma:
+shape=[(256,), float32]"]
+	275 [label="stage3_unit11_bn2_beta:
+shape=[(256,), float32]"]
+	276 [label="stage3_unit11_bn2_moving_mean:
+shape=[(256,), float32]"]
+	277 [label="stage3_unit11_bn2_moving_var:
+shape=[(256,), float32]"]
+	278 [label="stage3_unit11_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	279 [label="stage3_unit11_bn3_gamma:
+shape=[(256,), float32]"]
+	280 [label="stage3_unit11_bn3_beta:
+shape=[(256,), float32]"]
+	281 [label="stage3_unit11_bn3_moving_mean:
+shape=[(256,), float32]"]
+	282 [label="stage3_unit11_bn3_moving_var:
+shape=[(256,), float32]"]
+	283 [label="stage3_unit11_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	284 [label="stage3_unit12_bn1_gamma:
+shape=[(1024,), float32]"]
+	285 [label="stage3_unit12_bn1_beta:
+shape=[(1024,), float32]"]
+	286 [label="stage3_unit12_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	287 [label="stage3_unit12_bn1_moving_var:
+shape=[(1024,), float32]"]
+	288 [label="stage3_unit12_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	289 [label="stage3_unit12_bn2_gamma:
+shape=[(256,), float32]"]
+	290 [label="stage3_unit12_bn2_beta:
+shape=[(256,), float32]"]
+	291 [label="stage3_unit12_bn2_moving_mean:
+shape=[(256,), float32]"]
+	292 [label="stage3_unit12_bn2_moving_var:
+shape=[(256,), float32]"]
+	293 [label="stage3_unit12_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	294 [label="stage3_unit12_bn3_gamma:
+shape=[(256,), float32]"]
+	295 [label="stage3_unit12_bn3_beta:
+shape=[(256,), float32]"]
+	296 [label="stage3_unit12_bn3_moving_mean:
+shape=[(256,), float32]"]
+	297 [label="stage3_unit12_bn3_moving_var:
+shape=[(256,), float32]"]
+	298 [label="stage3_unit12_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	299 [label="stage3_unit13_bn1_gamma:
+shape=[(1024,), float32]"]
+	300 [label="stage3_unit13_bn1_beta:
+shape=[(1024,), float32]"]
+	301 [label="stage3_unit13_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	302 [label="stage3_unit13_bn1_moving_var:
+shape=[(1024,), float32]"]
+	303 [label="stage3_unit13_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	304 [label="stage3_unit13_bn2_gamma:
+shape=[(256,), float32]"]
+	305 [label="stage3_unit13_bn2_beta:
+shape=[(256,), float32]"]
+	306 [label="stage3_unit13_bn2_moving_mean:
+shape=[(256,), float32]"]
+	307 [label="stage3_unit13_bn2_moving_var:
+shape=[(256,), float32]"]
+	308 [label="stage3_unit13_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	309 [label="stage3_unit13_bn3_gamma:
+shape=[(256,), float32]"]
+	310 [label="stage3_unit13_bn3_beta:
+shape=[(256,), float32]"]
+	311 [label="stage3_unit13_bn3_moving_mean:
+shape=[(256,), float32]"]
+	312 [label="stage3_unit13_bn3_moving_var:
+shape=[(256,), float32]"]
+	313 [label="stage3_unit13_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	314 [label="stage3_unit14_bn1_gamma:
+shape=[(1024,), float32]"]
+	315 [label="stage3_unit14_bn1_beta:
+shape=[(1024,), float32]"]
+	316 [label="stage3_unit14_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	317 [label="stage3_unit14_bn1_moving_var:
+shape=[(1024,), float32]"]
+	318 [label="stage3_unit14_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	319 [label="stage3_unit14_bn2_gamma:
+shape=[(256,), float32]"]
+	320 [label="stage3_unit14_bn2_beta:
+shape=[(256,), float32]"]
+	321 [label="stage3_unit14_bn2_moving_mean:
+shape=[(256,), float32]"]
+	322 [label="stage3_unit14_bn2_moving_var:
+shape=[(256,), float32]"]
+	323 [label="stage3_unit14_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	324 [label="stage3_unit14_bn3_gamma:
+shape=[(256,), float32]"]
+	325 [label="stage3_unit14_bn3_beta:
+shape=[(256,), float32]"]
+	326 [label="stage3_unit14_bn3_moving_mean:
+shape=[(256,), float32]"]
+	327 [label="stage3_unit14_bn3_moving_var:
+shape=[(256,), float32]"]
+	328 [label="stage3_unit14_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	329 [label="stage3_unit15_bn1_gamma:
+shape=[(1024,), float32]"]
+	330 [label="stage3_unit15_bn1_beta:
+shape=[(1024,), float32]"]
+	331 [label="stage3_unit15_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	332 [label="stage3_unit15_bn1_moving_var:
+shape=[(1024,), float32]"]
+	333 [label="stage3_unit15_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	334 [label="stage3_unit15_bn2_gamma:
+shape=[(256,), float32]"]
+	335 [label="stage3_unit15_bn2_beta:
+shape=[(256,), float32]"]
+	336 [label="stage3_unit15_bn2_moving_mean:
+shape=[(256,), float32]"]
+	337 [label="stage3_unit15_bn2_moving_var:
+shape=[(256,), float32]"]
+	338 [label="stage3_unit15_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	339 [label="stage3_unit15_bn3_gamma:
+shape=[(256,), float32]"]
+	340 [label="stage3_unit15_bn3_beta:
+shape=[(256,), float32]"]
+	341 [label="stage3_unit15_bn3_moving_mean:
+shape=[(256,), float32]"]
+	342 [label="stage3_unit15_bn3_moving_var:
+shape=[(256,), float32]"]
+	343 [label="stage3_unit15_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	344 [label="stage3_unit16_bn1_gamma:
+shape=[(1024,), float32]"]
+	345 [label="stage3_unit16_bn1_beta:
+shape=[(1024,), float32]"]
+	346 [label="stage3_unit16_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	347 [label="stage3_unit16_bn1_moving_var:
+shape=[(1024,), float32]"]
+	348 [label="stage3_unit16_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	349 [label="stage3_unit16_bn2_gamma:
+shape=[(256,), float32]"]
+	350 [label="stage3_unit16_bn2_beta:
+shape=[(256,), float32]"]
+	351 [label="stage3_unit16_bn2_moving_mean:
+shape=[(256,), float32]"]
+	352 [label="stage3_unit16_bn2_moving_var:
+shape=[(256,), float32]"]
+	353 [label="stage3_unit16_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	354 [label="stage3_unit16_bn3_gamma:
+shape=[(256,), float32]"]
+	355 [label="stage3_unit16_bn3_beta:
+shape=[(256,), float32]"]
+	356 [label="stage3_unit16_bn3_moving_mean:
+shape=[(256,), float32]"]
+	357 [label="stage3_unit16_bn3_moving_var:
+shape=[(256,), float32]"]
+	358 [label="stage3_unit16_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	359 [label="stage3_unit17_bn1_gamma:
+shape=[(1024,), float32]"]
+	360 [label="stage3_unit17_bn1_beta:
+shape=[(1024,), float32]"]
+	361 [label="stage3_unit17_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	362 [label="stage3_unit17_bn1_moving_var:
+shape=[(1024,), float32]"]
+	363 [label="stage3_unit17_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	364 [label="stage3_unit17_bn2_gamma:
+shape=[(256,), float32]"]
+	365 [label="stage3_unit17_bn2_beta:
+shape=[(256,), float32]"]
+	366 [label="stage3_unit17_bn2_moving_mean:
+shape=[(256,), float32]"]
+	367 [label="stage3_unit17_bn2_moving_var:
+shape=[(256,), float32]"]
+	368 [label="stage3_unit17_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	369 [label="stage3_unit17_bn3_gamma:
+shape=[(256,), float32]"]
+	370 [label="stage3_unit17_bn3_beta:
+shape=[(256,), float32]"]
+	371 [label="stage3_unit17_bn3_moving_mean:
+shape=[(256,), float32]"]
+	372 [label="stage3_unit17_bn3_moving_var:
+shape=[(256,), float32]"]
+	373 [label="stage3_unit17_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	374 [label="stage3_unit18_bn1_gamma:
+shape=[(1024,), float32]"]
+	375 [label="stage3_unit18_bn1_beta:
+shape=[(1024,), float32]"]
+	376 [label="stage3_unit18_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	377 [label="stage3_unit18_bn1_moving_var:
+shape=[(1024,), float32]"]
+	378 [label="stage3_unit18_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	379 [label="stage3_unit18_bn2_gamma:
+shape=[(256,), float32]"]
+	380 [label="stage3_unit18_bn2_beta:
+shape=[(256,), float32]"]
+	381 [label="stage3_unit18_bn2_moving_mean:
+shape=[(256,), float32]"]
+	382 [label="stage3_unit18_bn2_moving_var:
+shape=[(256,), float32]"]
+	383 [label="stage3_unit18_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	384 [label="stage3_unit18_bn3_gamma:
+shape=[(256,), float32]"]
+	385 [label="stage3_unit18_bn3_beta:
+shape=[(256,), float32]"]
+	386 [label="stage3_unit18_bn3_moving_mean:
+shape=[(256,), float32]"]
+	387 [label="stage3_unit18_bn3_moving_var:
+shape=[(256,), float32]"]
+	388 [label="stage3_unit18_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	389 [label="stage3_unit19_bn1_gamma:
+shape=[(1024,), float32]"]
+	390 [label="stage3_unit19_bn1_beta:
+shape=[(1024,), float32]"]
+	391 [label="stage3_unit19_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	392 [label="stage3_unit19_bn1_moving_var:
+shape=[(1024,), float32]"]
+	393 [label="stage3_unit19_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	394 [label="stage3_unit19_bn2_gamma:
+shape=[(256,), float32]"]
+	395 [label="stage3_unit19_bn2_beta:
+shape=[(256,), float32]"]
+	396 [label="stage3_unit19_bn2_moving_mean:
+shape=[(256,), float32]"]
+	397 [label="stage3_unit19_bn2_moving_var:
+shape=[(256,), float32]"]
+	398 [label="stage3_unit19_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	399 [label="stage3_unit19_bn3_gamma:
+shape=[(256,), float32]"]
+	400 [label="stage3_unit19_bn3_beta:
+shape=[(256,), float32]"]
+	401 [label="stage3_unit19_bn3_moving_mean:
+shape=[(256,), float32]"]
+	402 [label="stage3_unit19_bn3_moving_var:
+shape=[(256,), float32]"]
+	403 [label="stage3_unit19_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	404 [label="stage3_unit20_bn1_gamma:
+shape=[(1024,), float32]"]
+	405 [label="stage3_unit20_bn1_beta:
+shape=[(1024,), float32]"]
+	406 [label="stage3_unit20_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	407 [label="stage3_unit20_bn1_moving_var:
+shape=[(1024,), float32]"]
+	408 [label="stage3_unit20_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	409 [label="stage3_unit20_bn2_gamma:
+shape=[(256,), float32]"]
+	410 [label="stage3_unit20_bn2_beta:
+shape=[(256,), float32]"]
+	411 [label="stage3_unit20_bn2_moving_mean:
+shape=[(256,), float32]"]
+	412 [label="stage3_unit20_bn2_moving_var:
+shape=[(256,), float32]"]
+	413 [label="stage3_unit20_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	414 [label="stage3_unit20_bn3_gamma:
+shape=[(256,), float32]"]
+	415 [label="stage3_unit20_bn3_beta:
+shape=[(256,), float32]"]
+	416 [label="stage3_unit20_bn3_moving_mean:
+shape=[(256,), float32]"]
+	417 [label="stage3_unit20_bn3_moving_var:
+shape=[(256,), float32]"]
+	418 [label="stage3_unit20_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	419 [label="stage3_unit21_bn1_gamma:
+shape=[(1024,), float32]"]
+	420 [label="stage3_unit21_bn1_beta:
+shape=[(1024,), float32]"]
+	421 [label="stage3_unit21_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	422 [label="stage3_unit21_bn1_moving_var:
+shape=[(1024,), float32]"]
+	423 [label="stage3_unit21_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	424 [label="stage3_unit21_bn2_gamma:
+shape=[(256,), float32]"]
+	425 [label="stage3_unit21_bn2_beta:
+shape=[(256,), float32]"]
+	426 [label="stage3_unit21_bn2_moving_mean:
+shape=[(256,), float32]"]
+	427 [label="stage3_unit21_bn2_moving_var:
+shape=[(256,), float32]"]
+	428 [label="stage3_unit21_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	429 [label="stage3_unit21_bn3_gamma:
+shape=[(256,), float32]"]
+	430 [label="stage3_unit21_bn3_beta:
+shape=[(256,), float32]"]
+	431 [label="stage3_unit21_bn3_moving_mean:
+shape=[(256,), float32]"]
+	432 [label="stage3_unit21_bn3_moving_var:
+shape=[(256,), float32]"]
+	433 [label="stage3_unit21_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	434 [label="stage3_unit22_bn1_gamma:
+shape=[(1024,), float32]"]
+	435 [label="stage3_unit22_bn1_beta:
+shape=[(1024,), float32]"]
+	436 [label="stage3_unit22_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	437 [label="stage3_unit22_bn1_moving_var:
+shape=[(1024,), float32]"]
+	438 [label="stage3_unit22_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	439 [label="stage3_unit22_bn2_gamma:
+shape=[(256,), float32]"]
+	440 [label="stage3_unit22_bn2_beta:
+shape=[(256,), float32]"]
+	441 [label="stage3_unit22_bn2_moving_mean:
+shape=[(256,), float32]"]
+	442 [label="stage3_unit22_bn2_moving_var:
+shape=[(256,), float32]"]
+	443 [label="stage3_unit22_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	444 [label="stage3_unit22_bn3_gamma:
+shape=[(256,), float32]"]
+	445 [label="stage3_unit22_bn3_beta:
+shape=[(256,), float32]"]
+	446 [label="stage3_unit22_bn3_moving_mean:
+shape=[(256,), float32]"]
+	447 [label="stage3_unit22_bn3_moving_var:
+shape=[(256,), float32]"]
+	448 [label="stage3_unit22_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	449 [label="stage3_unit23_bn1_gamma:
+shape=[(1024,), float32]"]
+	450 [label="stage3_unit23_bn1_beta:
+shape=[(1024,), float32]"]
+	451 [label="stage3_unit23_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	452 [label="stage3_unit23_bn1_moving_var:
+shape=[(1024,), float32]"]
+	453 [label="stage3_unit23_conv1_weight:
+shape=[(256, 1024, 1, 1), float32]"]
+	454 [label="stage3_unit23_bn2_gamma:
+shape=[(256,), float32]"]
+	455 [label="stage3_unit23_bn2_beta:
+shape=[(256,), float32]"]
+	456 [label="stage3_unit23_bn2_moving_mean:
+shape=[(256,), float32]"]
+	457 [label="stage3_unit23_bn2_moving_var:
+shape=[(256,), float32]"]
+	458 [label="stage3_unit23_conv2_weight:
+shape=[(256, 256, 3, 3), float32]"]
+	459 [label="stage3_unit23_bn3_gamma:
+shape=[(256,), float32]"]
+	460 [label="stage3_unit23_bn3_beta:
+shape=[(256,), float32]"]
+	461 [label="stage3_unit23_bn3_moving_mean:
+shape=[(256,), float32]"]
+	462 [label="stage3_unit23_bn3_moving_var:
+shape=[(256,), float32]"]
+	463 [label="stage3_unit23_conv3_weight:
+shape=[(1024, 256, 1, 1), float32]"]
+	464 [label="stage4_unit1_bn1_gamma:
+shape=[(1024,), float32]"]
+	465 [label="stage4_unit1_bn1_beta:
+shape=[(1024,), float32]"]
+	466 [label="stage4_unit1_bn1_moving_mean:
+shape=[(1024,), float32]"]
+	467 [label="stage4_unit1_bn1_moving_var:
+shape=[(1024,), float32]"]
+	468 [label="stage4_unit1_conv1_weight:
+shape=[(512, 1024, 1, 1), float32]"]
+	469 [label="stage4_unit1_bn2_gamma:
+shape=[(512,), float32]"]
+	470 [label="stage4_unit1_bn2_beta:
+shape=[(512,), float32]"]
+	471 [label="stage4_unit1_bn2_moving_mean:
+shape=[(512,), float32]"]
+	472 [label="stage4_unit1_bn2_moving_var:
+shape=[(512,), float32]"]
+	473 [label="stage4_unit1_conv2_weight:
+shape=[(512, 512, 3, 3), float32]"]
+	474 [label="stage4_unit1_bn3_gamma:
+shape=[(512,), float32]"]
+	475 [label="stage4_unit1_bn3_beta:
+shape=[(512,), float32]"]
+	476 [label="stage4_unit1_bn3_moving_mean:
+shape=[(512,), float32]"]
+	477 [label="stage4_unit1_bn3_moving_var:
+shape=[(512,), float32]"]
+	478 [label="stage4_unit1_conv3_weight:
+shape=[(2048, 512, 1, 1), float32]"]
+	479 [label="stage4_unit1_sc_weight:
+shape=[(2048, 1024, 1, 1), float32]"]
+	480 [label="stage4_unit2_bn1_gamma:
+shape=[(2048,), float32]"]
+	481 [label="stage4_unit2_bn1_beta:
+shape=[(2048,), float32]"]
+	482 [label="stage4_unit2_bn1_moving_mean:
+shape=[(2048,), float32]"]
+	483 [label="stage4_unit2_bn1_moving_var:
+shape=[(2048,), float32]"]
+	484 [label="stage4_unit2_conv1_weight:
+shape=[(512, 2048, 1, 1), float32]"]
+	485 [label="stage4_unit2_bn2_gamma:
+shape=[(512,), float32]"]
+	486 [label="stage4_unit2_bn2_beta:
+shape=[(512,), float32]"]
+	487 [label="stage4_unit2_bn2_moving_mean:
+shape=[(512,), float32]"]
+	488 [label="stage4_unit2_bn2_moving_var:
+shape=[(512,), float32]"]
+	489 [label="stage4_unit2_conv2_weight:
+shape=[(512, 512, 3, 3), float32]"]
+	490 [label="stage4_unit2_bn3_gamma:
+shape=[(512,), float32]"]
+	491 [label="stage4_unit2_bn3_beta:
+shape=[(512,), float32]"]
+	492 [label="stage4_unit2_bn3_moving_mean:
+shape=[(512,), float32]"]
+	493 [label="stage4_unit2_bn3_moving_var:
+shape=[(512,), float32]"]
+	494 [label="stage4_unit2_conv3_weight:
+shape=[(2048, 512, 1, 1), float32]"]
+	495 [label="stage4_unit3_bn1_gamma:
+shape=[(2048,), float32]"]
+	496 [label="stage4_unit3_bn1_beta:
+shape=[(2048,), float32]"]
+	497 [label="stage4_unit3_bn1_moving_mean:
+shape=[(2048,), float32]"]
+	498 [label="stage4_unit3_bn1_moving_var:
+shape=[(2048,), float32]"]
+	499 [label="stage4_unit3_conv1_weight:
+shape=[(512, 2048, 1, 1), float32]"]
+	500 [label="stage4_unit3_bn2_gamma:
+shape=[(512,), float32]"]
+	501 [label="stage4_unit3_bn2_beta:
+shape=[(512,), float32]"]
+	502 [label="stage4_unit3_bn2_moving_mean:
+shape=[(512,), float32]"]
+	503 [label="stage4_unit3_bn2_moving_var:
+shape=[(512,), float32]"]
+	504 [label="stage4_unit3_conv2_weight:
+shape=[(512, 512, 3, 3), float32]"]
+	505 [label="stage4_unit3_bn3_gamma:
+shape=[(512,), float32]"]
+	506 [label="stage4_unit3_bn3_beta:
+shape=[(512,), float32]"]
+	507 [label="stage4_unit3_bn3_moving_mean:
+shape=[(512,), float32]"]
+	508 [label="stage4_unit3_bn3_moving_var:
+shape=[(512,), float32]"]
+	509 [label="stage4_unit3_conv3_weight:
+shape=[(2048, 512, 1, 1), float32]"]
+	510 [label="bn1_gamma:
+shape=[(2048,), float32]"]
+	511 [label="bn1_beta:
+shape=[(2048,), float32]"]
+	512 [label="bn1_moving_mean:
+shape=[(2048,), float32]"]
+	513 [label="bn1_moving_var:
+shape=[(2048,), float32]"]
+	514 [label="fc1_weight:
+shape=[(1000, 2048), float32]"]
+	515 [label="fc1_bias:
+shape=[(1000,), float32]"]
+	516 [label="Call(op=nn.softmax)"]
+	518 -> 516
+	518 [label="Call(op=nn.bias_add)"]
+	520 -> 518
+	515 -> 518
+	520 [label="Call(op=nn.dense)"]
+	522 -> 520
+	514 -> 520
+	522 [label="Call(op=nn.batch_flatten)"]
+	524 -> 522
+	524 [label="Call(op=nn.global_avg_pool2d)"]
+	526 -> 524
+	526 [label="Call(op=nn.relu)"]
+	528 -> 526
+	528 [label="TupleGetItem(idx=0)"]
+	529 -> 528
+	529 [label="Call(op=nn.batch_norm)"]
+	531 -> 529
+	510 -> 529
+	511 -> 529
+	512 -> 529
+	513 -> 529
+	531 [label="Call(op=add)"]
+	533 -> 531
+	546 -> 531
+	533 [label="Call(op=nn.conv2d)"]
+	535 -> 533
+	509 -> 533
+	535 [label="Call(op=nn.relu)"]
+	536 -> 535
+	536 [label="TupleGetItem(idx=0)"]
+	537 -> 536
+	537 [label="Call(op=nn.batch_norm)"]
+	538 -> 537
+	505 -> 537
+	506 -> 537
+	507 -> 537
+	508 -> 537
+	538 [label="Call(op=nn.conv2d)"]
+	539 -> 538
+	504 -> 538
+	539 [label="Call(op=nn.relu)"]
+	540 -> 539
+	540 [label="TupleGetItem(idx=0)"]
+	541 -> 540
+	541 [label="Call(op=nn.batch_norm)"]
+	542 -> 541
+	500 -> 541
+	501 -> 541
+	502 -> 541
+	503 -> 541
+	542 [label="Call(op=nn.conv2d)"]
+	543 -> 542
+	499 -> 542
+	543 [label="Call(op=nn.relu)"]
+	544 -> 543
+	544 [label="TupleGetItem(idx=0)"]
+	545 -> 544
+	545 [label="Call(op=nn.batch_norm)"]
+	546 -> 545
+	495 -> 545
+	496 -> 545
+	497 -> 545
+	498 -> 545
+	546 [label="Call(op=add)"]
+	547 -> 546
+	559 -> 546
+	547 [label="Call(op=nn.conv2d)"]
+	548 -> 547
+	494 -> 547
+	548 [label="Call(op=nn.relu)"]
+	549 -> 548
+	549 [label="TupleGetItem(idx=0)"]
+	550 -> 549
+	550 [label="Call(op=nn.batch_norm)"]
+	551 -> 550
+	490 -> 550
+	491 -> 550
+	492 -> 550
+	493 -> 550
+	551 [label="Call(op=nn.conv2d)"]
+	552 -> 551
+	489 -> 551
+	552 [label="Call(op=nn.relu)"]
+	553 -> 552
+	553 [label="TupleGetItem(idx=0)"]
+	554 -> 553
+	554 [label="Call(op=nn.batch_norm)"]
+	555 -> 554
+	485 -> 554
+	486 -> 554
+	487 -> 554
+	488 -> 554
+	555 [label="Call(op=nn.conv2d)"]
+	556 -> 555
+	484 -> 555
+	556 [label="Call(op=nn.relu)"]
+	557 -> 556
+	557 [label="TupleGetItem(idx=0)"]
+	558 -> 557
+	558 [label="Call(op=nn.batch_norm)"]
+	559 -> 558
+	480 -> 558
+	481 -> 558
+	482 -> 558
+	483 -> 558
+	559 [label="Call(op=add)"]
+	560 -> 559
+	973 -> 559
+	560 [label="Call(op=nn.conv2d)"]
+	561 -> 560
+	478 -> 560
+	561 [label="Call(op=nn.relu)"]
+	562 -> 561
+	562 [label="TupleGetItem(idx=0)"]
+	563 -> 562
+	563 [label="Call(op=nn.batch_norm)"]
+	564 -> 563
+	474 -> 563
+	475 -> 563
+	476 -> 563
+	477 -> 563
+	564 [label="Call(op=nn.conv2d)"]
+	565 -> 564
+	473 -> 564
+	565 [label="Call(op=nn.relu)"]
+	566 -> 565
+	566 [label="TupleGetItem(idx=0)"]
+	567 -> 566
+	567 [label="Call(op=nn.batch_norm)"]
+	568 -> 567
+	469 -> 567
+	470 -> 567
+	471 -> 567
+	472 -> 567
+	568 [label="Call(op=nn.conv2d)"]
+	569 -> 568
+	468 -> 568
+	569 [label="Call(op=nn.relu)"]
+	570 -> 569
+	570 [label="TupleGetItem(idx=0)"]
+	571 -> 570
+	571 [label="Call(op=nn.batch_norm)"]
+	572 -> 571
+	464 -> 571
+	465 -> 571
+	466 -> 571
+	467 -> 571
+	572 [label="Call(op=add)"]
+	573 -> 572
+	585 -> 572
+	573 [label="Call(op=nn.conv2d)"]
+	574 -> 573
+	463 -> 573
+	574 [label="Call(op=nn.relu)"]
+	575 -> 574
+	575 [label="TupleGetItem(idx=0)"]
+	576 -> 575
+	576 [label="Call(op=nn.batch_norm)"]
+	577 -> 576
+	459 -> 576
+	460 -> 576
+	461 -> 576
+	462 -> 576
+	577 [label="Call(op=nn.conv2d)"]
+	578 -> 577
+	458 -> 577
+	578 [label="Call(op=nn.relu)"]
+	579 -> 578
+	579 [label="TupleGetItem(idx=0)"]
+	580 -> 579
+	580 [label="Call(op=nn.batch_norm)"]
+	581 -> 580
+	454 -> 580
+	455 -> 580
+	456 -> 580
+	457 -> 580
+	581 [label="Call(op=nn.conv2d)"]
+	582 -> 581
+	453 -> 581
+	582 [label="Call(op=nn.relu)"]
+	583 -> 582
+	583 [label="TupleGetItem(idx=0)"]
+	584 -> 583
+	584 [label="Call(op=nn.batch_norm)"]
+	585 -> 584
+	449 -> 584
+	450 -> 584
+	451 -> 584
+	452 -> 584
+	585 [label="Call(op=add)"]
+	586 -> 585
+	598 -> 585
+	586 [label="Call(op=nn.conv2d)"]
+	587 -> 586
+	448 -> 586
+	587 [label="Call(op=nn.relu)"]
+	588 -> 587
+	588 [label="TupleGetItem(idx=0)"]
+	589 -> 588
+	589 [label="Call(op=nn.batch_norm)"]
+	590 -> 589
+	444 -> 589
+	445 -> 589
+	446 -> 589
+	447 -> 589
+	590 [label="Call(op=nn.conv2d)"]
+	591 -> 590
+	443 -> 590
+	591 [label="Call(op=nn.relu)"]
+	592 -> 591
+	592 [label="TupleGetItem(idx=0)"]
+	593 -> 592
+	593 [label="Call(op=nn.batch_norm)"]
+	594 -> 593
+	439 -> 593
+	440 -> 593
+	441 -> 593
+	442 -> 593
+	594 [label="Call(op=nn.conv2d)"]
+	595 -> 594
+	438 -> 594
+	595 [label="Call(op=nn.relu)"]
+	596 -> 595
+	596 [label="TupleGetItem(idx=0)"]
+	597 -> 596
+	597 [label="Call(op=nn.batch_norm)"]
+	598 -> 597
+	434 -> 597
+	435 -> 597
+	436 -> 597
+	437 -> 597
+	598 [label="Call(op=add)"]
+	599 -> 598
+	611 -> 598
+	599 [label="Call(op=nn.conv2d)"]
+	600 -> 599
+	433 -> 599
+	600 [label="Call(op=nn.relu)"]
+	601 -> 600
+	601 [label="TupleGetItem(idx=0)"]
+	602 -> 601
+	602 [label="Call(op=nn.batch_norm)"]
+	603 -> 602
+	429 -> 602
+	430 -> 602
+	431 -> 602
+	432 -> 602
+	603 [label="Call(op=nn.conv2d)"]
+	604 -> 603
+	428 -> 603
+	604 [label="Call(op=nn.relu)"]
+	605 -> 604
+	605 [label="TupleGetItem(idx=0)"]
+	606 -> 605
+	606 [label="Call(op=nn.batch_norm)"]
+	607 -> 606
+	424 -> 606
+	425 -> 606
+	426 -> 606
+	427 -> 606
+	607 [label="Call(op=nn.conv2d)"]
+	608 -> 607
+	423 -> 607
+	608 [label="Call(op=nn.relu)"]
+	609 -> 608
+	609 [label="TupleGetItem(idx=0)"]
+	610 -> 609
+	610 [label="Call(op=nn.batch_norm)"]
+	611 -> 610
+	419 -> 610
+	420 -> 610
+	421 -> 610
+	422 -> 610
+	611 [label="Call(op=add)"]
+	612 -> 611
+	624 -> 611
+	612 [label="Call(op=nn.conv2d)"]
+	613 -> 612
+	418 -> 612
+	613 [label="Call(op=nn.relu)"]
+	614 -> 613
+	614 [label="TupleGetItem(idx=0)"]
+	615 -> 614
+	615 [label="Call(op=nn.batch_norm)"]
+	616 -> 615
+	414 -> 615
+	415 -> 615
+	416 -> 615
+	417 -> 615
+	616 [label="Call(op=nn.conv2d)"]
+	617 -> 616
+	413 -> 616
+	617 [label="Call(op=nn.relu)"]
+	618 -> 617
+	618 [label="TupleGetItem(idx=0)"]
+	619 -> 618
+	619 [label="Call(op=nn.batch_norm)"]
+	620 -> 619
+	409 -> 619
+	410 -> 619
+	411 -> 619
+	412 -> 619
+	620 [label="Call(op=nn.conv2d)"]
+	621 -> 620
+	408 -> 620
+	621 [label="Call(op=nn.relu)"]
+	622 -> 621
+	622 [label="TupleGetItem(idx=0)"]
+	623 -> 622
+	623 [label="Call(op=nn.batch_norm)"]
+	624 -> 623
+	404 -> 623
+	405 -> 623
+	406 -> 623
+	407 -> 623
+	624 [label="Call(op=add)"]
+	625 -> 624
+	637 -> 624
+	625 [label="Call(op=nn.conv2d)"]
+	626 -> 625
+	403 -> 625
+	626 [label="Call(op=nn.relu)"]
+	627 -> 626
+	627 [label="TupleGetItem(idx=0)"]
+	628 -> 627
+	628 [label="Call(op=nn.batch_norm)"]
+	629 -> 628
+	399 -> 628
+	400 -> 628
+	401 -> 628
+	402 -> 628
+	629 [label="Call(op=nn.conv2d)"]
+	630 -> 629
+	398 -> 629
+	630 [label="Call(op=nn.relu)"]
+	631 -> 630
+	631 [label="TupleGetItem(idx=0)"]
+	632 -> 631
+	632 [label="Call(op=nn.batch_norm)"]
+	633 -> 632
+	394 -> 632
+	395 -> 632
+	396 -> 632
+	397 -> 632
+	633 [label="Call(op=nn.conv2d)"]
+	634 -> 633
+	393 -> 633
+	634 [label="Call(op=nn.relu)"]
+	635 -> 634
+	635 [label="TupleGetItem(idx=0)"]
+	636 -> 635
+	636 [label="Call(op=nn.batch_norm)"]
+	637 -> 636
+	389 -> 636
+	390 -> 636
+	391 -> 636
+	392 -> 636
+	637 [label="Call(op=add)"]
+	638 -> 637
+	650 -> 637
+	638 [label="Call(op=nn.conv2d)"]
+	639 -> 638
+	388 -> 638
+	639 [label="Call(op=nn.relu)"]
+	640 -> 639
+	640 [label="TupleGetItem(idx=0)"]
+	641 -> 640
+	641 [label="Call(op=nn.batch_norm)"]
+	642 -> 641
+	384 -> 641
+	385 -> 641
+	386 -> 641
+	387 -> 641
+	642 [label="Call(op=nn.conv2d)"]
+	643 -> 642
+	383 -> 642
+	643 [label="Call(op=nn.relu)"]
+	644 -> 643
+	644 [label="TupleGetItem(idx=0)"]
+	645 -> 644
+	645 [label="Call(op=nn.batch_norm)"]
+	646 -> 645
+	379 -> 645
+	380 -> 645
+	381 -> 645
+	382 -> 645
+	646 [label="Call(op=nn.conv2d)"]
+	647 -> 646
+	378 -> 646
+	647 [label="Call(op=nn.relu)"]
+	648 -> 647
+	648 [label="TupleGetItem(idx=0)"]
+	649 -> 648
+	649 [label="Call(op=nn.batch_norm)"]
+	650 -> 649
+	374 -> 649
+	375 -> 649
+	376 -> 649
+	377 -> 649
+	650 [label="Call(op=add)"]
+	651 -> 650
+	663 -> 650
+	651 [label="Call(op=nn.conv2d)"]
+	652 -> 651
+	373 -> 651
+	652 [label="Call(op=nn.relu)"]
+	653 -> 652
+	653 [label="TupleGetItem(idx=0)"]
+	654 -> 653
+	654 [label="Call(op=nn.batch_norm)"]
+	655 -> 654
+	369 -> 654
+	370 -> 654
+	371 -> 654
+	372 -> 654
+	655 [label="Call(op=nn.conv2d)"]
+	656 -> 655
+	368 -> 655
+	656 [label="Call(op=nn.relu)"]
+	657 -> 656
+	657 [label="TupleGetItem(idx=0)"]
+	658 -> 657
+	658 [label="Call(op=nn.batch_norm)"]
+	659 -> 658
+	364 -> 658
+	365 -> 658
+	366 -> 658
+	367 -> 658
+	659 [label="Call(op=nn.conv2d)"]
+	660 -> 659
+	363 -> 659
+	660 [label="Call(op=nn.relu)"]
+	661 -> 660
+	661 [label="TupleGetItem(idx=0)"]
+	662 -> 661
+	662 [label="Call(op=nn.batch_norm)"]
+	663 -> 662
+	359 -> 662
+	360 -> 662
+	361 -> 662
+	362 -> 662
+	663 [label="Call(op=add)"]
+	664 -> 663
+	676 -> 663
+	664 [label="Call(op=nn.conv2d)"]
+	665 -> 664
+	358 -> 664
+	665 [label="Call(op=nn.relu)"]
+	666 -> 665
+	666 [label="TupleGetItem(idx=0)"]
+	667 -> 666
+	667 [label="Call(op=nn.batch_norm)"]
+	668 -> 667
+	354 -> 667
+	355 -> 667
+	356 -> 667
+	357 -> 667
+	668 [label="Call(op=nn.conv2d)"]
+	669 -> 668
+	353 -> 668
+	669 [label="Call(op=nn.relu)"]
+	670 -> 669
+	670 [label="TupleGetItem(idx=0)"]
+	671 -> 670
+	671 [label="Call(op=nn.batch_norm)"]
+	672 -> 671
+	349 -> 671
+	350 -> 671
+	351 -> 671
+	352 -> 671
+	672 [label="Call(op=nn.conv2d)"]
+	673 -> 672
+	348 -> 672
+	673 [label="Call(op=nn.relu)"]
+	674 -> 673
+	674 [label="TupleGetItem(idx=0)"]
+	675 -> 674
+	675 [label="Call(op=nn.batch_norm)"]
+	676 -> 675
+	344 -> 675
+	345 -> 675
+	346 -> 675
+	347 -> 675
+	676 [label="Call(op=add)"]
+	677 -> 676
+	689 -> 676
+	677 [label="Call(op=nn.conv2d)"]
+	678 -> 677
+	343 -> 677
+	678 [label="Call(op=nn.relu)"]
+	679 -> 678
+	679 [label="TupleGetItem(idx=0)"]
+	680 -> 679
+	680 [label="Call(op=nn.batch_norm)"]
+	681 -> 680
+	339 -> 680
+	340 -> 680
+	341 -> 680
+	342 -> 680
+	681 [label="Call(op=nn.conv2d)"]
+	682 -> 681
+	338 -> 681
+	682 [label="Call(op=nn.relu)"]
+	683 -> 682
+	683 [label="TupleGetItem(idx=0)"]
+	684 -> 683
+	684 [label="Call(op=nn.batch_norm)"]
+	685 -> 684
+	334 -> 684
+	335 -> 684
+	336 -> 684
+	337 -> 684
+	685 [label="Call(op=nn.conv2d)"]
+	686 -> 685
+	333 -> 685
+	686 [label="Call(op=nn.relu)"]
+	687 -> 686
+	687 [label="TupleGetItem(idx=0)"]
+	688 -> 687
+	688 [label="Call(op=nn.batch_norm)"]
+	689 -> 688
+	329 -> 688
+	330 -> 688
+	331 -> 688
+	332 -> 688
+	689 [label="Call(op=add)"]
+	690 -> 689
+	702 -> 689
+	690 [label="Call(op=nn.conv2d)"]
+	691 -> 690
+	328 -> 690
+	691 [label="Call(op=nn.relu)"]
+	692 -> 691
+	692 [label="TupleGetItem(idx=0)"]
+	693 -> 692
+	693 [label="Call(op=nn.batch_norm)"]
+	694 -> 693
+	324 -> 693
+	325 -> 693
+	326 -> 693
+	327 -> 693
+	694 [label="Call(op=nn.conv2d)"]
+	695 -> 694
+	323 -> 694
+	695 [label="Call(op=nn.relu)"]
+	696 -> 695
+	696 [label="TupleGetItem(idx=0)"]
+	697 -> 696
+	697 [label="Call(op=nn.batch_norm)"]
+	698 -> 697
+	319 -> 697
+	320 -> 697
+	321 -> 697
+	322 -> 697
+	698 [label="Call(op=nn.conv2d)"]
+	699 -> 698
+	318 -> 698
+	699 [label="Call(op=nn.relu)"]
+	700 -> 699
+	700 [label="TupleGetItem(idx=0)"]
+	701 -> 700
+	701 [label="Call(op=nn.batch_norm)"]
+	702 -> 701
+	314 -> 701
+	315 -> 701
+	316 -> 701
+	317 -> 701
+	702 [label="Call(op=add)"]
+	703 -> 702
+	715 -> 702
+	703 [label="Call(op=nn.conv2d)"]
+	704 -> 703
+	313 -> 703
+	704 [label="Call(op=nn.relu)"]
+	705 -> 704
+	705 [label="TupleGetItem(idx=0)"]
+	706 -> 705
+	706 [label="Call(op=nn.batch_norm)"]
+	707 -> 706
+	309 -> 706
+	310 -> 706
+	311 -> 706
+	312 -> 706
+	707 [label="Call(op=nn.conv2d)"]
+	708 -> 707
+	308 -> 707
+	708 [label="Call(op=nn.relu)"]
+	709 -> 708
+	709 [label="TupleGetItem(idx=0)"]
+	710 -> 709
+	710 [label="Call(op=nn.batch_norm)"]
+	711 -> 710
+	304 -> 710
+	305 -> 710
+	306 -> 710
+	307 -> 710
+	711 [label="Call(op=nn.conv2d)"]
+	712 -> 711
+	303 -> 711
+	712 [label="Call(op=nn.relu)"]
+	713 -> 712
+	713 [label="TupleGetItem(idx=0)"]
+	714 -> 713
+	714 [label="Call(op=nn.batch_norm)"]
+	715 -> 714
+	299 -> 714
+	300 -> 714
+	301 -> 714
+	302 -> 714
+	715 [label="Call(op=add)"]
+	716 -> 715
+	728 -> 715
+	716 [label="Call(op=nn.conv2d)"]
+	717 -> 716
+	298 -> 716
+	717 [label="Call(op=nn.relu)"]
+	718 -> 717
+	718 [label="TupleGetItem(idx=0)"]
+	719 -> 718
+	719 [label="Call(op=nn.batch_norm)"]
+	720 -> 719
+	294 -> 719
+	295 -> 719
+	296 -> 719
+	297 -> 719
+	720 [label="Call(op=nn.conv2d)"]
+	721 -> 720
+	293 -> 720
+	721 [label="Call(op=nn.relu)"]
+	722 -> 721
+	722 [label="TupleGetItem(idx=0)"]
+	723 -> 722
+	723 [label="Call(op=nn.batch_norm)"]
+	724 -> 723
+	289 -> 723
+	290 -> 723
+	291 -> 723
+	292 -> 723
+	724 [label="Call(op=nn.conv2d)"]
+	725 -> 724
+	288 -> 724
+	725 [label="Call(op=nn.relu)"]
+	726 -> 725
+	726 [label="TupleGetItem(idx=0)"]
+	727 -> 726
+	727 [label="Call(op=nn.batch_norm)"]
+	728 -> 727
+	284 -> 727
+	285 -> 727
+	286 -> 727
+	287 -> 727
+	728 [label="Call(op=add)"]
+	729 -> 728
+	741 -> 728
+	729 [label="Call(op=nn.conv2d)"]
+	730 -> 729
+	283 -> 729
+	730 [label="Call(op=nn.relu)"]
+	731 -> 730
+	731 [label="TupleGetItem(idx=0)"]
+	732 -> 731
+	732 [label="Call(op=nn.batch_norm)"]
+	733 -> 732
+	279 -> 732
+	280 -> 732
+	281 -> 732
+	282 -> 732
+	733 [label="Call(op=nn.conv2d)"]
+	734 -> 733
+	278 -> 733
+	734 [label="Call(op=nn.relu)"]
+	735 -> 734
+	735 [label="TupleGetItem(idx=0)"]
+	736 -> 735
+	736 [label="Call(op=nn.batch_norm)"]
+	737 -> 736
+	274 -> 736
+	275 -> 736
+	276 -> 736
+	277 -> 736
+	737 [label="Call(op=nn.conv2d)"]
+	738 -> 737
+	273 -> 737
+	738 [label="Call(op=nn.relu)"]
+	739 -> 738
+	739 [label="TupleGetItem(idx=0)"]
+	740 -> 739
+	740 [label="Call(op=nn.batch_norm)"]
+	741 -> 740
+	269 -> 740
+	270 -> 740
+	271 -> 740
+	272 -> 740
+	741 [label="Call(op=add)"]
+	742 -> 741
+	754 -> 741
+	742 [label="Call(op=nn.conv2d)"]
+	743 -> 742
+	268 -> 742
+	743 [label="Call(op=nn.relu)"]
+	744 -> 743
+	744 [label="TupleGetItem(idx=0)"]
+	745 -> 744
+	745 [label="Call(op=nn.batch_norm)"]
+	746 -> 745
+	264 -> 745
+	265 -> 745
+	266 -> 745
+	267 -> 745
+	746 [label="Call(op=nn.conv2d)"]
+	747 -> 746
+	263 -> 746
+	747 [label="Call(op=nn.relu)"]
+	748 -> 747
+	748 [label="TupleGetItem(idx=0)"]
+	749 -> 748
+	749 [label="Call(op=nn.batch_norm)"]
+	750 -> 749
+	259 -> 749
+	260 -> 749
+	261 -> 749
+	262 -> 749
+	750 [label="Call(op=nn.conv2d)"]
+	751 -> 750
+	258 -> 750
+	751 [label="Call(op=nn.relu)"]
+	752 -> 751
+	752 [label="TupleGetItem(idx=0)"]
+	753 -> 752
+	753 [label="Call(op=nn.batch_norm)"]
+	754 -> 753
+	254 -> 753
+	255 -> 753
+	256 -> 753
+	257 -> 753
+	754 [label="Call(op=add)"]
+	755 -> 754
+	767 -> 754
+	755 [label="Call(op=nn.conv2d)"]
+	756 -> 755
+	253 -> 755
+	756 [label="Call(op=nn.relu)"]
+	757 -> 756
+	757 [label="TupleGetItem(idx=0)"]
+	758 -> 757
+	758 [label="Call(op=nn.batch_norm)"]
+	759 -> 758
+	249 -> 758
+	250 -> 758
+	251 -> 758
+	252 -> 758
+	759 [label="Call(op=nn.conv2d)"]
+	760 -> 759
+	248 -> 759
+	760 [label="Call(op=nn.relu)"]
+	761 -> 760
+	761 [label="TupleGetItem(idx=0)"]
+	762 -> 761
+	762 [label="Call(op=nn.batch_norm)"]
+	763 -> 762
+	244 -> 762
+	245 -> 762
+	246 -> 762
+	247 -> 762
+	763 [label="Call(op=nn.conv2d)"]
+	764 -> 763
+	243 -> 763
+	764 [label="Call(op=nn.relu)"]
+	765 -> 764
+	765 [label="TupleGetItem(idx=0)"]
+	766 -> 765
+	766 [label="Call(op=nn.batch_norm)"]
+	767 -> 766
+	239 -> 766
+	240 -> 766
+	241 -> 766
+	242 -> 766
+	767 [label="Call(op=add)"]
+	768 -> 767
+	780 -> 767
+	768 [label="Call(op=nn.conv2d)"]
+	769 -> 768
+	238 -> 768
+	769 [label="Call(op=nn.relu)"]
+	770 -> 769
+	770 [label="TupleGetItem(idx=0)"]
+	771 -> 770
+	771 [label="Call(op=nn.batch_norm)"]
+	772 -> 771
+	234 -> 771
+	235 -> 771
+	236 -> 771
+	237 -> 771
+	772 [label="Call(op=nn.conv2d)"]
+	773 -> 772
+	233 -> 772
+	773 [label="Call(op=nn.relu)"]
+	774 -> 773
+	774 [label="TupleGetItem(idx=0)"]
+	775 -> 774
+	775 [label="Call(op=nn.batch_norm)"]
+	776 -> 775
+	229 -> 775
+	230 -> 775
+	231 -> 775
+	232 -> 775
+	776 [label="Call(op=nn.conv2d)"]
+	777 -> 776
+	228 -> 776
+	777 [label="Call(op=nn.relu)"]
+	778 -> 777
+	778 [label="TupleGetItem(idx=0)"]
+	779 -> 778
+	779 [label="Call(op=nn.batch_norm)"]
+	780 -> 779
+	224 -> 779
+	225 -> 779
+	226 -> 779
+	227 -> 779
+	780 [label="Call(op=add)"]
+	781 -> 780
+	793 -> 780
+	781 [label="Call(op=nn.conv2d)"]
+	782 -> 781
+	223 -> 781
+	782 [label="Call(op=nn.relu)"]
+	783 -> 782
+	783 [label="TupleGetItem(idx=0)"]
+	784 -> 783
+	784 [label="Call(op=nn.batch_norm)"]
+	785 -> 784
+	219 -> 784
+	220 -> 784
+	221 -> 784
+	222 -> 784
+	785 [label="Call(op=nn.conv2d)"]
+	786 -> 785
+	218 -> 785
+	786 [label="Call(op=nn.relu)"]
+	787 -> 786
+	787 [label="TupleGetItem(idx=0)"]
+	788 -> 787
+	788 [label="Call(op=nn.batch_norm)"]
+	789 -> 788
+	214 -> 788
+	215 -> 788
+	216 -> 788
+	217 -> 788
+	789 [label="Call(op=nn.conv2d)"]
+	790 -> 789
+	213 -> 789
+	790 [label="Call(op=nn.relu)"]
+	791 -> 790
+	791 [label="TupleGetItem(idx=0)"]
+	792 -> 791
+	792 [label="Call(op=nn.batch_norm)"]
+	793 -> 792
+	209 -> 792
+	210 -> 792
+	211 -> 792
+	212 -> 792
+	793 [label="Call(op=add)"]
+	794 -> 793
+	806 -> 793
+	794 [label="Call(op=nn.conv2d)"]
+	795 -> 794
+	208 -> 794
+	795 [label="Call(op=nn.relu)"]
+	796 -> 795
+	796 [label="TupleGetItem(idx=0)"]
+	797 -> 796
+	797 [label="Call(op=nn.batch_norm)"]
+	798 -> 797
+	204 -> 797
+	205 -> 797
+	206 -> 797
+	207 -> 797
+	798 [label="Call(op=nn.conv2d)"]
+	799 -> 798
+	203 -> 798
+	799 [label="Call(op=nn.relu)"]
+	800 -> 799
+	800 [label="TupleGetItem(idx=0)"]
+	801 -> 800
+	801 [label="Call(op=nn.batch_norm)"]
+	802 -> 801
+	199 -> 801
+	200 -> 801
+	201 -> 801
+	202 -> 801
+	802 [label="Call(op=nn.conv2d)"]
+	803 -> 802
+	198 -> 802
+	803 [label="Call(op=nn.relu)"]
+	804 -> 803
+	804 [label="TupleGetItem(idx=0)"]
+	805 -> 804
+	805 [label="Call(op=nn.batch_norm)"]
+	806 -> 805
+	194 -> 805
+	195 -> 805
+	196 -> 805
+	197 -> 805
+	806 [label="Call(op=add)"]
+	807 -> 806
+	819 -> 806
+	807 [label="Call(op=nn.conv2d)"]
+	808 -> 807
+	193 -> 807
+	808 [label="Call(op=nn.relu)"]
+	809 -> 808
+	809 [label="TupleGetItem(idx=0)"]
+	810 -> 809
+	810 [label="Call(op=nn.batch_norm)"]
+	811 -> 810
+	189 -> 810
+	190 -> 810
+	191 -> 810
+	192 -> 810
+	811 [label="Call(op=nn.conv2d)"]
+	812 -> 811
+	188 -> 811
+	812 [label="Call(op=nn.relu)"]
+	813 -> 812
+	813 [label="TupleGetItem(idx=0)"]
+	814 -> 813
+	814 [label="Call(op=nn.batch_norm)"]
+	815 -> 814
+	184 -> 814
+	185 -> 814
+	186 -> 814
+	187 -> 814
+	815 [label="Call(op=nn.conv2d)"]
+	816 -> 815
+	183 -> 815
+	816 [label="Call(op=nn.relu)"]
+	817 -> 816
+	817 [label="TupleGetItem(idx=0)"]
+	818 -> 817
+	818 [label="Call(op=nn.batch_norm)"]
+	819 -> 818
+	179 -> 818
+	180 -> 818
+	181 -> 818
+	182 -> 818
+	819 [label="Call(op=add)"]
+	820 -> 819
+	832 -> 819
+	820 [label="Call(op=nn.conv2d)"]
+	821 -> 820
+	178 -> 820
+	821 [label="Call(op=nn.relu)"]
+	822 -> 821
+	822 [label="TupleGetItem(idx=0)"]
+	823 -> 822
+	823 [label="Call(op=nn.batch_norm)"]
+	824 -> 823
+	174 -> 823
+	175 -> 823
+	176 -> 823
+	177 -> 823
+	824 [label="Call(op=nn.conv2d)"]
+	825 -> 824
+	173 -> 824
+	825 [label="Call(op=nn.relu)"]
+	826 -> 825
+	826 [label="TupleGetItem(idx=0)"]
+	827 -> 826
+	827 [label="Call(op=nn.batch_norm)"]
+	828 -> 827
+	169 -> 827
+	170 -> 827
+	171 -> 827
+	172 -> 827
+	828 [label="Call(op=nn.conv2d)"]
+	829 -> 828
+	168 -> 828
+	829 [label="Call(op=nn.relu)"]
+	830 -> 829
+	830 [label="TupleGetItem(idx=0)"]
+	831 -> 830
+	831 [label="Call(op=nn.batch_norm)"]
+	832 -> 831
+	164 -> 831
+	165 -> 831
+	166 -> 831
+	167 -> 831
+	832 [label="Call(op=add)"]
+	833 -> 832
+	845 -> 832
+	833 [label="Call(op=nn.conv2d)"]
+	834 -> 833
+	163 -> 833
+	834 [label="Call(op=nn.relu)"]
+	835 -> 834
+	835 [label="TupleGetItem(idx=0)"]
+	836 -> 835
+	836 [label="Call(op=nn.batch_norm)"]
+	837 -> 836
+	159 -> 836
+	160 -> 836
+	161 -> 836
+	162 -> 836
+	837 [label="Call(op=nn.conv2d)"]
+	838 -> 837
+	158 -> 837
+	838 [label="Call(op=nn.relu)"]
+	839 -> 838
+	839 [label="TupleGetItem(idx=0)"]
+	840 -> 839
+	840 [label="Call(op=nn.batch_norm)"]
+	841 -> 840
+	154 -> 840
+	155 -> 840
+	156 -> 840
+	157 -> 840
+	841 [label="Call(op=nn.conv2d)"]
+	842 -> 841
+	153 -> 841
+	842 [label="Call(op=nn.relu)"]
+	843 -> 842
+	843 [label="TupleGetItem(idx=0)"]
+	844 -> 843
+	844 [label="Call(op=nn.batch_norm)"]
+	845 -> 844
+	149 -> 844
+	150 -> 844
+	151 -> 844
+	152 -> 844
+	845 [label="Call(op=add)"]
+	846 -> 845
+	858 -> 845
+	846 [label="Call(op=nn.conv2d)"]
+	847 -> 846
+	148 -> 846
+	847 [label="Call(op=nn.relu)"]
+	848 -> 847
+	848 [label="TupleGetItem(idx=0)"]
+	849 -> 848
+	849 [label="Call(op=nn.batch_norm)"]
+	850 -> 849
+	144 -> 849
+	145 -> 849
+	146 -> 849
+	147 -> 849
+	850 [label="Call(op=nn.conv2d)"]
+	851 -> 850
+	143 -> 850
+	851 [label="Call(op=nn.relu)"]
+	852 -> 851
+	852 [label="TupleGetItem(idx=0)"]
+	853 -> 852
+	853 [label="Call(op=nn.batch_norm)"]
+	854 -> 853
+	139 -> 853
+	140 -> 853
+	141 -> 853
+	142 -> 853
+	854 [label="Call(op=nn.conv2d)"]
+	855 -> 854
+	138 -> 854
+	855 [label="Call(op=nn.relu)"]
+	856 -> 855
+	856 [label="TupleGetItem(idx=0)"]
+	857 -> 856
+	857 [label="Call(op=nn.batch_norm)"]
+	858 -> 857
+	134 -> 857
+	135 -> 857
+	136 -> 857
+	137 -> 857
+	858 [label="Call(op=add)"]
+	859 -> 858
+	972 -> 858
+	859 [label="Call(op=nn.conv2d)"]
+	860 -> 859
+	132 -> 859
+	860 [label="Call(op=nn.relu)"]
+	861 -> 860
+	861 [label="TupleGetItem(idx=0)"]
+	862 -> 861
+	862 [label="Call(op=nn.batch_norm)"]
+	863 -> 862
+	128 -> 862
+	129 -> 862
+	130 -> 862
+	131 -> 862
+	863 [label="Call(op=nn.conv2d)"]
+	864 -> 863
+	127 -> 863
+	864 [label="Call(op=nn.relu)"]
+	865 -> 864
+	865 [label="TupleGetItem(idx=0)"]
+	866 -> 865
+	866 [label="Call(op=nn.batch_norm)"]
+	867 -> 866
+	123 -> 866
+	124 -> 866
+	125 -> 866
+	126 -> 866
+	867 [label="Call(op=nn.conv2d)"]
+	868 -> 867
+	122 -> 867
+	868 [label="Call(op=nn.relu)"]
+	869 -> 868
+	869 [label="TupleGetItem(idx=0)"]
+	870 -> 869
+	870 [label="Call(op=nn.batch_norm)"]
+	871 -> 870
+	118 -> 870
+	119 -> 870
+	120 -> 870
+	121 -> 870
+	871 [label="Call(op=add)"]
+	872 -> 871
+	884 -> 871
+	872 [label="Call(op=nn.conv2d)"]
+	873 -> 872
+	117 -> 872
+	873 [label="Call(op=nn.relu)"]
+	874 -> 873
+	874 [label="TupleGetItem(idx=0)"]
+	875 -> 874
+	875 [label="Call(op=nn.batch_norm)"]
+	876 -> 875
+	113 -> 875
+	114 -> 875
+	115 -> 875
+	116 -> 875
+	876 [label="Call(op=nn.conv2d)"]
+	877 -> 876
+	112 -> 876
+	877 [label="Call(op=nn.relu)"]
+	878 -> 877
+	878 [label="TupleGetItem(idx=0)"]
+	879 -> 878
+	879 [label="Call(op=nn.batch_norm)"]
+	880 -> 879
+	108 -> 879
+	109 -> 879
+	110 -> 879
+	111 -> 879
+	880 [label="Call(op=nn.conv2d)"]
+	881 -> 880
+	107 -> 880
+	881 [label="Call(op=nn.relu)"]
+	882 -> 881
+	882 [label="TupleGetItem(idx=0)"]
+	883 -> 882
+	883 [label="Call(op=nn.batch_norm)"]
+	884 -> 883
+	103 -> 883
+	104 -> 883
+	105 -> 883
+	106 -> 883
+	884 [label="Call(op=add)"]
+	885 -> 884
+	897 -> 884
+	885 [label="Call(op=nn.conv2d)"]
+	886 -> 885
+	102 -> 885
+	886 [label="Call(op=nn.relu)"]
+	887 -> 886
+	887 [label="TupleGetItem(idx=0)"]
+	888 -> 887
+	888 [label="Call(op=nn.batch_norm)"]
+	889 -> 888
+	98 -> 888
+	99 -> 888
+	100 -> 888
+	101 -> 888
+	889 [label="Call(op=nn.conv2d)"]
+	890 -> 889
+	97 -> 889
+	890 [label="Call(op=nn.relu)"]
+	891 -> 890
+	891 [label="TupleGetItem(idx=0)"]
+	892 -> 891
+	892 [label="Call(op=nn.batch_norm)"]
+	893 -> 892
+	93 -> 892
+	94 -> 892
+	95 -> 892
+	96 -> 892
+	893 [label="Call(op=nn.conv2d)"]
+	894 -> 893
+	92 -> 893
+	894 [label="Call(op=nn.relu)"]
+	895 -> 894
+	895 [label="TupleGetItem(idx=0)"]
+	896 -> 895
+	896 [label="Call(op=nn.batch_norm)"]
+	897 -> 896
+	88 -> 896
+	89 -> 896
+	90 -> 896
+	91 -> 896
+	897 [label="Call(op=add)"]
+	898 -> 897
+	910 -> 897
+	898 [label="Call(op=nn.conv2d)"]
+	899 -> 898
+	87 -> 898
+	899 [label="Call(op=nn.relu)"]
+	900 -> 899
+	900 [label="TupleGetItem(idx=0)"]
+	901 -> 900
+	901 [label="Call(op=nn.batch_norm)"]
+	902 -> 901
+	83 -> 901
+	84 -> 901
+	85 -> 901
+	86 -> 901
+	902 [label="Call(op=nn.conv2d)"]
+	903 -> 902
+	82 -> 902
+	903 [label="Call(op=nn.relu)"]
+	904 -> 903
+	904 [label="TupleGetItem(idx=0)"]
+	905 -> 904
+	905 [label="Call(op=nn.batch_norm)"]
+	906 -> 905
+	78 -> 905
+	79 -> 905
+	80 -> 905
+	81 -> 905
+	906 [label="Call(op=nn.conv2d)"]
+	907 -> 906
+	77 -> 906
+	907 [label="Call(op=nn.relu)"]
+	908 -> 907
+	908 [label="TupleGetItem(idx=0)"]
+	909 -> 908
+	909 [label="Call(op=nn.batch_norm)"]
+	910 -> 909
+	73 -> 909
+	74 -> 909
+	75 -> 909
+	76 -> 909
+	910 [label="Call(op=add)"]
+	911 -> 910
+	971 -> 910
+	911 [label="Call(op=nn.conv2d)"]
+	912 -> 911
+	71 -> 911
+	912 [label="Call(op=nn.relu)"]
+	913 -> 912
+	913 [label="TupleGetItem(idx=0)"]
+	914 -> 913
+	914 [label="Call(op=nn.batch_norm)"]
+	915 -> 914
+	67 -> 914
+	68 -> 914
+	69 -> 914
+	70 -> 914
+	915 [label="Call(op=nn.conv2d)"]
+	916 -> 915
+	66 -> 915
+	916 [label="Call(op=nn.relu)"]
+	917 -> 916
+	917 [label="TupleGetItem(idx=0)"]
+	918 -> 917
+	918 [label="Call(op=nn.batch_norm)"]
+	919 -> 918
+	62 -> 918
+	63 -> 918
+	64 -> 918
+	65 -> 918
+	919 [label="Call(op=nn.conv2d)"]
+	920 -> 919
+	61 -> 919
+	920 [label="Call(op=nn.relu)"]
+	921 -> 920
+	921 [label="TupleGetItem(idx=0)"]
+	922 -> 921
+	922 [label="Call(op=nn.batch_norm)"]
+	923 -> 922
+	57 -> 922
+	58 -> 922
+	59 -> 922
+	60 -> 922
+	923 [label="Call(op=add)"]
+	924 -> 923
+	936 -> 923
+	924 [label="Call(op=nn.conv2d)"]
+	925 -> 924
+	56 -> 924
+	925 [label="Call(op=nn.relu)"]
+	926 -> 925
+	926 [label="TupleGetItem(idx=0)"]
+	927 -> 926
+	927 [label="Call(op=nn.batch_norm)"]
+	928 -> 927
+	52 -> 927
+	53 -> 927
+	54 -> 927
+	55 -> 927
+	928 [label="Call(op=nn.conv2d)"]
+	929 -> 928
+	51 -> 928
+	929 [label="Call(op=nn.relu)"]
+	930 -> 929
+	930 [label="TupleGetItem(idx=0)"]
+	931 -> 930
+	931 [label="Call(op=nn.batch_norm)"]
+	932 -> 931
+	47 -> 931
+	48 -> 931
+	49 -> 931
+	50 -> 931
+	932 [label="Call(op=nn.conv2d)"]
+	933 -> 932
+	46 -> 932
+	933 [label="Call(op=nn.relu)"]
+	934 -> 933
+	934 [label="TupleGetItem(idx=0)"]
+	935 -> 934
+	935 [label="Call(op=nn.batch_norm)"]
+	936 -> 935
+	42 -> 935
+	43 -> 935
+	44 -> 935
+	45 -> 935
+	936 [label="Call(op=add)"]
+	937 -> 936
+	949 -> 936
+	937 [label="Call(op=nn.conv2d)"]
+	938 -> 937
+	41 -> 937
+	938 [label="Call(op=nn.relu)"]
+	939 -> 938
+	939 [label="TupleGetItem(idx=0)"]
+	940 -> 939
+	940 [label="Call(op=nn.batch_norm)"]
+	941 -> 940
+	37 -> 940
+	38 -> 940
+	39 -> 940
+	40 -> 940
+	941 [label="Call(op=nn.conv2d)"]
+	942 -> 941
+	36 -> 941
+	942 [label="Call(op=nn.relu)"]
+	943 -> 942
+	943 [label="TupleGetItem(idx=0)"]
+	944 -> 943
+	944 [label="Call(op=nn.batch_norm)"]
+	945 -> 944
+	32 -> 944
+	33 -> 944
+	34 -> 944
+	35 -> 944
+	945 [label="Call(op=nn.conv2d)"]
+	946 -> 945
+	31 -> 945
+	946 [label="Call(op=nn.relu)"]
+	947 -> 946
+	947 [label="TupleGetItem(idx=0)"]
+	948 -> 947
+	948 [label="Call(op=nn.batch_norm)"]
+	949 -> 948
+	27 -> 948
+	28 -> 948
+	29 -> 948
+	30 -> 948
+	949 [label="Call(op=add)"]
+	950 -> 949
+	970 -> 949
+	950 [label="Call(op=nn.conv2d)"]
+	951 -> 950
+	25 -> 950
+	951 [label="Call(op=nn.relu)"]
+	952 -> 951
+	952 [label="TupleGetItem(idx=0)"]
+	953 -> 952
+	953 [label="Call(op=nn.batch_norm)"]
+	954 -> 953
+	21 -> 953
+	22 -> 953
+	23 -> 953
+	24 -> 953
+	954 [label="Call(op=nn.conv2d)"]
+	955 -> 954
+	20 -> 954
+	955 [label="Call(op=nn.relu)"]
+	956 -> 955
+	956 [label="TupleGetItem(idx=0)"]
+	957 -> 956
+	957 [label="Call(op=nn.batch_norm)"]
+	958 -> 957
+	16 -> 957
+	17 -> 957
+	18 -> 957
+	19 -> 957
+	958 [label="Call(op=nn.conv2d)"]
+	959 -> 958
+	15 -> 958
+	959 [label="Call(op=nn.relu)"]
+	960 -> 959
+	960 [label="TupleGetItem(idx=0)"]
+	961 -> 960
+	961 [label="Call(op=nn.batch_norm)"]
+	962 -> 961
+	11 -> 961
+	12 -> 961
+	13 -> 961
+	14 -> 961
+	962 [label="Call(op=nn.max_pool2d)"]
+	964 -> 962
+	964 [label="Call(op=nn.relu)"]
+	965 -> 964
+	965 [label="TupleGetItem(idx=0)"]
+	966 -> 965
+	966 [label="Call(op=nn.batch_norm)"]
+	967 -> 966
+	7 -> 966
+	8 -> 966
+	9 -> 966
+	10 -> 966
+	967 [label="Call(op=nn.conv2d)"]
+	968 -> 967
+	6 -> 967
+	968 [label="TupleGetItem(idx=0)"]
+	969 -> 968
+	969 [label="Call(op=nn.batch_norm)"]
+	1 -> 969
+	2 -> 969
+	3 -> 969
+	4 -> 969
+	5 -> 969
+	970 [label="Call(op=nn.conv2d)"]
+	959 -> 970
+	26 -> 970
+	971 [label="Call(op=nn.conv2d)"]
+	920 -> 971
+	72 -> 971
+	972 [label="Call(op=nn.conv2d)"]
+	868 -> 972
+	133 -> 972
+	973 [label="Call(op=nn.conv2d)"]
+	569 -> 973
+	479 -> 973
+}
