@@ -1,6 +1,8 @@
 import sys
 
 sys.path.append("/home/2020147555/myenv/lib/python3.8/site-packages")
+from digraph import Digraph
+
 sys.path.append("home/2020147555/tvm/python")
 import tvm
 import tvm.relay as relay
